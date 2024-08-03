@@ -1,2 +1,4 @@
 .env
 Embedding_store
+.venv
+__pycache__
