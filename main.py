@@ -24,6 +24,8 @@ import textwrap
 import faiss
 from dotenv import load_dotenv
 
+from prompts import character_description_prompt
+
 load_dotenv()
 
 def wrap_text_preserve_newlines(text, width=110):
@@ -153,7 +155,7 @@ def generate_descriptions():
     charater_descriptions = []
     retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 30}) #Definicion buscador
 
-    #Cargamos un modelo local el llm studio
+    #Cargamos un modelo jusnto con el retirever
     qa_chain_instrucEmbed = RetrievalQA.from_chain_type(llm=llm, 
                                   chain_type="stuff", 
                                   retriever=retriever, 
@@ -162,10 +164,7 @@ def generate_descriptions():
     with open("./characters_list/characters_final_solution_test.txt", "w", encoding='utf-8') as f:
         for i in list_elements: 
             f.write(i + '\n')
-            #query=f"""Create a description of the personality, appearance, and actions of the characters with the following names.: {i}"""
-            query=f"""I want a brief descriptions of the character appearance and personality. These character can be found in the book with the following names: {i}."""
-
-            print('-------------------Respuesta------------------\n')
+            query=character_description_prompt + f"{i}"
             llm_response = qa_chain_instrucEmbed(query)
             f.write('\n' + process_llm_response(llm_response) + '\n')
     return None

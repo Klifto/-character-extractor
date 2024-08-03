@@ -1,0 +1,1 @@
+character_description_prompt = f"""I want a brief descriptions of the character appearance and personality. These character can be found in the book with the following names: """
