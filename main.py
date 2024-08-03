@@ -24,7 +24,7 @@ import textwrap
 import faiss
 from dotenv import load_dotenv
 
-from prompts import character_description_prompt
+from prompts import character_description_prompt,system_message
 
 load_dotenv()
 
@@ -120,7 +120,7 @@ def process_characters():
     messages = [
     (
         "system",
-        "You are a helpful assistant your job is to take a list of characters from a novel and cluster these list with all the different names that every character has in the list.",
+        system_message,
     ),
     ("human", f"Cluster the following list of characters: {elements}"),
     ]
@@ -189,5 +189,5 @@ def similar(a, b):
 
 if __name__=="__main__":
     #main()
-    #process_characters()
-    generate_descriptions()
+    process_characters()
+    #generate_descriptions()
