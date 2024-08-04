@@ -169,7 +169,7 @@ def generate_descriptions():
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
     except Exception as e:
         instructor_embeddings = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-xl", model_kwargs={"device": "cuda"})
-        texts = load_data(path=f'D://CosasJuan//projects//int1//books', chunk_size=1000, chunk_overlap=200)
+        texts = load_data(path=f'.//books', chunk_size=1000, chunk_overlap=200)
         print(f"No se pudieron cargar los embeddings pasamos a generarlos. {e}")
         store_embeddings(texts, 
                   instructor_embeddings, 
