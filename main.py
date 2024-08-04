@@ -7,11 +7,7 @@ from difflib import SequenceMatcher
 from langchain_openai import AzureChatOpenAI
 
 
-from langchain.vectorstores import Chroma
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
-from langchain.document_loaders import PyPDFLoader
-from langchain.document_loaders import DirectoryLoader
 import pickle
 from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceInstructEmbeddings
