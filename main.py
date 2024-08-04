@@ -4,27 +4,23 @@ from langchain.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
 from difflib import SequenceMatcher
-from langchain.llms import OpenAI
-import os 
 from langchain_openai import AzureChatOpenAI
 
 
 from langchain.vectorstores import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.llms import OpenAI
 from langchain.chains import RetrievalQA
 from langchain.document_loaders import PyPDFLoader
 from langchain.document_loaders import DirectoryLoader
-from InstructorEmbedding import INSTRUCTOR
-from langchain.embeddings import HuggingFaceInstructEmbeddings
 import pickle
 from langchain.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceInstructEmbeddings
 import textwrap
-import faiss
 from dotenv import load_dotenv
 
 from prompts import character_description_prompt,system_message
+import nltk
+from nltk.corpus import stopwords
 
 load_dotenv()
 
@@ -49,7 +45,7 @@ def process_llm_response(llm_response):
 
 def load_embeddings(store_name, path):
     """
-    Función apra cargar los embeddings generados con anterioridad
+    Función para cargar los embeddings generados con anterioridad
 
     Args:
         store_name: nobre del archivo que contiene lso embeddings
@@ -78,7 +74,24 @@ def load_data(path: str, chunk_size: int, chunk_overlap: int):
     print(f"Texto cargado correctametne y dividido en {len(texts)} partes.")
     return texts
 
-def main():
+def store_embeddings(docs, embeddings, store_name, path):
+    """
+    Función para generar y almacenar los embedings generados
+
+    Args:
+        docs: documentos sobre los que generamos embedings
+        embeddings: modelo a usar para la generación de embeddings
+        store_name: nombre del archivo pickle en el que guardaremos los embeddings
+        path: ruta donde se guardarán los embeddings
+    """
+    vectorStore = FAISS.from_documents(docs, embeddings)
+
+    with open(f"{path}/faiss_{store_name}.pkl", "wb") as f:
+        pickle.dump(vectorStore, f)
+    
+    return None
+
+def extract_characters():
     text = load_data(path=f'.//books', chunk_size=1000, chunk_overlap=0)
     model = GLiNER.from_pretrained("urchade/gliner_medium-v2.1")
     labels = ["person"]
@@ -94,11 +107,17 @@ def main():
     print(characters_set)
     new_characters_set = set()
 
+    nltk.download('stopwords')
+    stop_wrods = stopwords.words('english')
+
     for i in characters_set:
-        i = i.replace(' -\n', "")
-        i = i.replace("\n", "")
-        i = i.replace("  ", " ")
-        new_characters_set.add(i.lower())
+        if i.lower() in stop_wrods:
+            pass
+        else:
+            i = i.replace(' -\n', "")
+            i = i.replace("\n", "")
+            i = i.replace("  ", " ")
+            new_characters_set.add(i.lower())
     with open("./characters_list/characters.txt", "w", encoding='utf-8') as f:
         for i in new_characters_set: 
             f.write(i + '\n')
@@ -122,7 +141,7 @@ def process_characters():
         "system",
         system_message,
     ),
-    ("human", f"Cluster the following list of characters: {elements}"),
+    ("human", f"Extract a list with all the different names for each character if the list of names is: {elements}"),
     ]
     ai_msg = llm.invoke(messages)
     print(ai_msg.content)
@@ -132,7 +151,6 @@ def process_characters():
     return elements
 
 def generate_descriptions():
-    #with open("characters_final.txt", "r", encoding='utf-8') as f:
     with open("./characters_list/characters_test.txt", "r", encoding='utf-8') as f:
         elements = f.read()
     
@@ -150,7 +168,14 @@ def generate_descriptions():
         #Intentamos cargar los embeddings en caso de tenerlos calculados de forma previa
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
     except Exception as e:
+        instructor_embeddings = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-xl", model_kwargs={"device": "cuda"})
+        texts = load_data(path=f'D://CosasJuan//projects//int1//books', chunk_size=1000, chunk_overlap=200)
         print(f"No se pudieron cargar los embeddings pasamos a generarlos. {e}")
+        store_embeddings(texts, 
+                  instructor_embeddings, 
+                  store_name='instructEmbeddings', 
+                  path=Embedding_store_path)
+        db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
     list_elements = elements.split("\n")
     charater_descriptions = []
     retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 30}) #Definicion buscador
@@ -188,6 +213,6 @@ def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 if __name__=="__main__":
-    #main()
+    extract_characters()
     process_characters()
-    #generate_descriptions()
+    generate_descriptions()

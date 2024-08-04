@@ -1,150 +1,222 @@
-1. Duke of Buckingham, the duke, duke, George Villiers, monsieur de buckingham, the duke of buckingham, monsieur duke
-2. Anne, Anne of Austria, queen, the queen, her majesty
-3. King James, king, king of spain, king henry iv, king louis xiii, king charles i, louis the just, louis xiii, louis xiv
-4. Monsieur de Bassopierre, m. de bassompierre, bassompierre, mm. bassompierre
-5. Madame d'Aiguillon, mme. d'aguillon, mme. d’aiguillon
-6. M. de Laffemas, m. de la tremouille, m. le duc de la tremouille, monsieur de la tremouille, duc de la tremouille
-7. Lieutenant Felton, john felton, mr. felton
-8. Mme. Coquenard, madame coquenard, duchess coquenard, m. coquenard
-9. Caesar, clement
-10. Chevreuse, duchesse de chevreuse, madame de chevreuse, mme. de chevreuse, mme. chevreuse
-11. Alexandre Dumas
-12. Richelieu, cardinal, cardinal armand duplessis, m. de richelieu, cardinal richelieu, cardinal de richelieu, monsieur le cardinal richelieu, monseigneur the cardinal
-13. Berrichon
-14. Monsieur d'Artagnan, d'artagnan, m. d'artagnan, d’ artagnan, lord d'artagnan, mme. d'artagnan
-15. M. de Cavois, monsieur de cavois, cavois
-16. Putange, monsieur putange, monsieur de putange
-17. M. de Liancourt
-18. I, me, you
-19. Madame the President, madame la premiere presidente
-20. The old man, the young man, the young woman, the gentleman, the stranger, stranger
-21. Grand Prior
-22. The host, host, hostler
-23. Chevalier de Guise, mme. de guise
-24. She, he, him
-25. Des Roches le Masle
-26. Madame de Bois-Tracy, camille de bois-tracy, bois-tracy
-27. Lucretia
-28. Monseigneur Athos, monsieur athos, athos
-29. Captain, the captain, officer
-30. M. de Busigny, monsieur de busigny
-31. Comte de Wardes, monsieur el comte de wardes, m. de wardes, monsieur de wardes, de wardes, comtes de wardes
-32. Mme. Bonacieux, madame bonacieux, constance bonacieux, bonacieux
-33. Monsieur, monseigneur, monsieur the governor, monsieur the abbe, monsieur the principal of amiens, monsieur the commissary, monsieur the curate of montdidier, monsieur the principal, monsieur le prince
-34. The commissary, commissary, monsieur commissary
-35. Madame de Lannoy
-36. Bicarat
-37. Milady, milady de winter, comtesse de winter, milady clarik
-38. The chancellor, the procurator, the procurator's wife
-39. Monsieur Aramis, aramis
-40. God
-41. Seguier
-42. Vitray, vitry
-43. Curate
-44. M. le Comte de Soissons
-45. Comte de la Fere, comte de chalus, comte de rochefort, comtesse de la fere
-46. Sextus, sixtus the fifth
-47. Queen, marie de medicis
-48. Lansquenet
-49. The good abbess, the abbess
-50. M. de Treville, monsieur de treville, m. de troisville
-51. Madame de Longueville, duc de longueville
-52. Charlotte Backson
-53. Bassette
-54. Your majesty, his majesty
-55. Pompey
-56. Pardieu
-57. Marie Michon
-58. Croesus
-59. Dessessart, m. de chevalier dessessart, monsieur dessessart, m. dessessart
-60. Due de Chaulnes
-61. Constance
-62. Archimedes
-63. Besme
-64. Treville
-65. M. de la Tremouille
-66. Buckingham, baron de winter, de winter
-67. M. Bonacieux, monsieur bonacieux, jacques michel bonacieux
-68. Sieur de la Coste
-69. Francis the first
-70. Laporte, monsieur laporte
-71. Planchet, monsieur planchet
-72. Passe-dix
-73. Novice, the novice
-74. Henry IV, henry iv
-75. Artagnan
-76. The guardsman, musketeer
-77. Mme. d'Aguillon, mme. d’aguillon
-78. Picard
-79. Prince de Soubise
-80. Rochefort, comte de rochefort
-81. Cardinal Armand Duplessis
-82. Monsieur Cardinal, monsieur le cardinal, monsieur the cardinal
-83. Baron de Winter, the baron, baron sheffield
-84. Gascon
-85. Patrick
-86. Montague
-87. Jussac, m. de jussac
-88. Ventrebleu
-89. M. Porthos, monsieur porthos, porthos
-90. Grisette
-91. M. de Toiras, comte de toiras
-92. Sire
-93. Cahusac, monsieur de cahusac
-94. Mousqueton
-95. Father, priest
-96. Madame, mme. de montbazon, mme. de sable, mme. de guitaut, mme. de bernet, mme. de guemene
-97. M. de Chevalier Dessessart
-98. St. Martin
-99. Armand Jean Duplessis
-100. Marion de Lorme
-101. Madame Puritan
-102. Englishman, the englishman
-103. M. de Schomberg, m. d'estrees, m. de schomberg
-104. Gulliver
-105. Schomberg
-106. Bazin
-107. Lubin
-108. Sardanapalus
-109. The cardinal, his eminence
-110. Monsieur de Courtivron
-111. Duc d'Angouleme, duc d ’a ngou leme, duc d'orleans
-112. Bernajoux
-113. La Chesnaye
-114. Grimaud, monsieur grimaud
-115. The mystifier
-116. Monsieur de Louvigny
-117. Duc de Nevers
-118. Louis the Just
-119. Your grace, your eminence
-120. Monsieur Duke
-121. King Charles I, charles i
-122. His highness monsieur
-123. Monsieur Chevalier
-124. Lady Clarik
-125. Pluribus impar
-126. My lord, my friend
-127. Baron de Chantal
-128. Monsieur de Conde
-129. Pierre Rouge
-130. Mr. Jackson
-131. Traveler
-132. Acieux
-133. St. Peter
-134. Duc d'A ngou leme
-135. John
-136. Emperor of Austria
-137. Fourreau
-138. Lucullus
-139. Festubert
-140. Mazarin
-141. Kitty
-142. Brisemont
-143. The doctor, the jesuit
-144. My brother
-145. The boatman
-146. The mendicant, mendicant
-147. Godeau
-148. Soubrette
-149. Claude de St. Simon
-150. Executioner, the executioner
+1. Milady de Winter / Comtesse de Winter / Lady Clarik / Milady Clarik
+2. Soubrette
+3. Schomberg / M. de Schomberg
+4. Monsieur the Cardinal / Cardinal Richelieu / Cardinal Armand Duplessis / Cardinal de Richelieu / Monseigneur the Cardinal / Monsieur le Cardinal Richelieu / Armand Jean Duplessis / Monsieur Cardinal
+5. Monsieur de Bassopierre / M. de Bassopierre
+6. Monsieur le Prince / Prince de Soubise / Monsieur de Conde / His Highness Monsieur
+7. Chevalier de Guise / Duc de Guise
+8. Mme. de Guitaut
+9. Chevreuse / Mme. Chevreuse / Madame de Chevreuse / Duchesse de Chevreuse
+10. Due de Chaulnes / Comte de Chalus
+11. Madame the President / Madame la Premiere Presidente
+12. Charles I / King Charles I
+13. M. de Busigny / Monsieur de Busigny
+14. Monsieur de Cavois / M. de Cavois / Cavois
+15. St. Peter
+16. The Young Man
+17. Clement
+18. Your Eminence / His Eminence
+19. Berrichon
+20. Baron de Winter / The Baron / Lord de Winter
+21. M. le Duc de la Tremouille / Monsieur de la Tremouille / Duc de la Tremouille
+22. Vitray / Vitry
+23. The Young Woman
+24. Montague
+25. M. Bonacieux / Monsieur Bonacieux / M. D'Artagnan / Monsieur D'Artagnan / D'Artagnan / Jacques Michel Bonacieux / Lord D'Artagnan
+26. The Host / Host
+27. Comte de Wardes / Monsieur de Wardes / M. de Wardes / De Wardes / Comtes de Wardes / Monsieur El Comte de Wardes / Baron de Wardes
+28. King Henry IV / Henry IV
+29. Duc d'Angouleme / Duc d 'a ngou leme
+30. Putange / Monsieur Putange / Monsieur de Putange
+31. The King / King / King Louis XIII / Louis XIII / Louis XIV / Louis XI / King of Spain
+32. Pierre Rouge
+33. Monsieur de Cahusac / Cahusac
+34. Gascon
+35. Musketeer
+36. The Novice / Novice
+37. The Duke / Duke / The Duke of Buckingham / Duke of Buckingham / George Villiers, Duke of Buckingham
+38. Artagnan / Monsieur D'Artagnan / D'Artagnan / M. D'Artagnan
+39. La Chesnaye
+40. M. le Comte de Soissons
+41. Monsieur Dessessart / M. Dessessart / Dessessart / Monsieur Chevalier Dessessart
+42. Claude de St. Simon
+43. M. de Toiras / Comte de Toiras
+44. Anne / Anne of Austria
+45. Rochefort / Comte de Rochefort
+46. King James
+47. Constance / Constance Bonacieux
+48. The Procurator's Wife
+49. Mm. Bassompierre / Bassompierre
+50. Grisette
+51. My Brother
+52. Monsieur the Governor
+53. Charlotte Backson
+54. Marie Michon
+55. George Villiers / George Villiers, Duke of Buckingham
+56. Athos / Monsieur Athos / Monseigneur Athos
+57. Mme. Coquenard / Madame Coquenard / Duchess Coquenard
+58. Baron Sheffield
+59. Brutus
+60. St. Martin
+61. Mme. D'Artagnan
+62. The Good Abbess / The Abbess
+63. Madame Puritan
+64. The Executioner / Executioner
+65. Duc de Nevers
+66. The Gentleman
+67. Monsieur Crequy
+68. Camille de Bois-Tracy / Bois-Tracy
+69. Monsieur de Buckingham / Monsieur Duke
+70. Captain / The Captain
+71. Queen / The Queen / Queen Anne / Her Majesty
+72. Monsieur Laporte / Laporte
+73. Bernajoux
+74. Monsieur the Abbe / Monsieur the Curate of Montdidier / The Curate / Curate
+75. Brisemont
+76. Lucretia
+77. The Mendicant / Mendicant
+78. The Doctor
+79. De Winter
+80. M. de Jussac / Jussac
+81. Monsieur Grimaud / Grimaud
+82. Bonacieux
+83. Richelieu / M. de Richelieu
+84. Lansquenet
+85. The Guardsman
+86. Ventrebleu
+87. M. Coquenard
+88. Mme. Chevreuse / Mme. de Chevreuse
+89. Priest
+90. Sixtus the Fifth / Sextus
+91. The Procurator
+92. Monsieur Chevalier
+93. Madame / Madame Bonacieux / Mme. Bonacieux
+94. Mme. de Guemene
+95. Seguier
+96. Mme. de Sable
+97. Bassette
+98. Mme. de Bernet
+99. Monsieur de la Tremouille / M. de la Tremouille
+100. Milady
+101. Madame de Longueville
+102. The Englishman / Englishman
+103. Louis the Just
+104. The Boatman
+105. Sardanapalus
+106. The Cardinal / Cardinal
+107. John / Mr. Jackson
+108. Host / Hostler
+109. The Jesuit
+110. Picard
+111. M. Porthos / Monsieur Porthos / Porthos
+112. Father
+113. Monsieur de Courtivron
+114. Traveler
+115. Madame D'Aiguillon / Mme. D'Aiguillon / Mme. d'Aiguillon
+116. Acieux
+117. Francis the First
+118. Emperor of Austria
+119. Alexandre Dumas
+120. Planchet / Monsieur Planchet
+121. Germain
+122. Pluribus Impar
+123. Comtesse de la Fere / Comte de la Fere
+124. Mr. Felton / Lieutenant Felton / John Felton / Felton
+125. Monsieur the Principal of Amiens / Monsieur the Principal
+126. D'Artagnan / M. D'Artagnan
+127. M. D'Estrees
+128. The Commissary / Commissary
+129. The Duke of Buckingham / Duke of Buckingham
+130. Grimaud
+131. God
+132. Duc de Longueville
+133. Marion de Lorme
+134. Madame de Lannoy
+135. Sergeant
+136. M. de Cavois / Cavois
+137. Gulliver
+138. Besme
+139. Madame de Chevreuse / Mme. de Chevreuse
+140. The Stranger / Stranger
+141. The Mystifier
+142. The Chancellor
+143. Monsieur the Principal / Monsieur the Principal of Amiens
+144. Patrick
+145. M. de Treville / Monsieur de Treville
+146. Archimedes
+147. Des Roches le Masle
+148. Madame the Constable
+149. Your Grace
+150. M. de Liancourt
+151. Godeau
+152. The Old Man
+153. Bazin
+154. Mazarin
+155. Lucullus
+156. Festubert
+157. Your Majesty / His Majesty
+158. My Lord
+159. Bicarat
+160. Sieur de la Coste
+161. Mme. de Guise
+162. Monsieur Aramis / Aramis
+163. Madame la Premiere Presidente
+164. Monsieur Commissary / Monsieur the Commissary
+165. Monsieur de Ferussac
+166. Lubin
+167. Officer / The Officer
+168. Madame de Bois-Tracy
+169. Sire
+170. Pardieu
+171. Mordieu
+172. Don Quixote
+173. My Friend
+174. Mme. D'Aiguillon
+175. Duc d'Orleans
+176. Mme. de Montbazon
+177. Baron de Chantal
+178. St. Martin
+179. Marie de Medicis
+180. The Officer / Officer
+181. Fourreau
+182. Caesar
+183. Mousqueton
+184. Mme. de Chevreuse / Mme. Chevreuse
+185. Monsieur de Louvigny
+186. Monseigneur
+187. Mme. Bonacieux
+188. Pompey
+189. Kitty
+190. Treville
+191. Mme. D'Aguillon
+192. Aramis / Monsieur Aramis
+193. Croesus
+194. Buckingham / Monsieur de Buckingham
+195. Monsieur the Commissary
+196. Monsieur
+197. Grand Prior
+198. Comte de Toiras
+199. Morbleu
+200. M. de Troisville
+201. George Villiers
+202. The Procurator
+203. The Captain
+204. The Chancellor
+205. The Mendicant
+206. The Doctor
+207. The Gentleman
+208. The Host
+209. The Jesuit
+210. The King
+211. The Novice
+212. The Officer
+213. The Old Man
+214. The Procurator's Wife
+215. The Queen
+216. The Stranger
+217. The Young Man
+218. The Young Woman
+219. Ventrebleu
+220. Your Eminence
+221. Your Grace
+222. Your Majesty
