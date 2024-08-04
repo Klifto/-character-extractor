@@ -159,7 +159,7 @@ def generate_descriptions():
         max_retries=2,
         )
 
-    Embedding_store_path = f".//Embedding_store"
+    Embedding_store_path = f".//Embedding_store_harry"
     try:
         #Intentamos cargar los embeddings en caso de tenerlos calculados de forma previa
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
@@ -209,6 +209,6 @@ def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 if __name__=="__main__":
-    extract_characters()
-    process_characters()
+    #extract_characters()
+    #process_characters()
     generate_descriptions()

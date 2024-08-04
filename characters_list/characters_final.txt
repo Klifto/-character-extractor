@@ -1,210 +1,191 @@
-1. Bonacieux: bonacieux, monsieur bonacieux, jacques michel bonacieux, m. bonacieux, constance bonacieux, madame bonacieux, mme. bonacieux
-2. Bicarat: bicarat
-3. Comte de Wardes: monsieur el comte de wardes, comte de wardes, monsieur de wardes, m. de wardes, de wardes, baron de wardes
-4. Emperor of Austria: emperor of austria
-5. Dessessart: dessessart, m. dessessart, monsieur dessessart, m. de chevalier dessessart
-6. Cardinal Richelieu: monsieur the cardinal, richelieu, the cardinal, m. de richelieu, cardinal armand duplessis, cardinal de richelieu, monsieur le cardinal richelieu, cardinal richelieu, monseigneur the cardinal
-7. Treville: treville, monsieur de treville, m. de treville
-8. Monsieur de Busigny: monsieur de busigny, m. de busigny
-9. Comte de Toiras: comte de toiras, m. de toiras
-10. Monsieur de Cahusac: monsieur de cahusac, cahusac
-11. Monsieur de Ferussac: monsieur de ferussac
-12. Soubrette: soubrette
-13. King: the king, king charles i, king james, king henry iv, king louis xiii, king of spain, king
-14. Pierre Rouge: pierre rouge
-15. Passe-dix: passe-dix
-16. Mazarin: mazarin
-17. Executioner: the executioner, executioner
-18. The Mystifier: the mystifier
-19. Marion de Lorme: marion de lorme
-20. Commissary: the commissary, monsieur the commissary, commissary, monsieur commissary
-21. Duc de Longueville: duc de longueville
-22. Due de Chaulnes: due de chaulnes
-23. M. Coquenard: m. coquenard, mme. coquenard, madame coquenard, duchess coquenard
-24. Monsieur Aramis: monsieur aramis, aramis, monseigneur athos
-25. Lady Clarik: lady clarik, milady clarik
-26. Stranger: stranger, the stranger
-27. Acieux: acieux
-28. Baron de Winter: baron de winter, lord de winter, de winter
-29. Madame la Premiere Presidente: madame la premiere presidente, madame the president
-30. Don Quixote: don quixote
-31. Bois-Tracy: bois-tracy, camille de bois-tracy, madame de bois-tracy
-32. Mr. Felton: mr. felton, lieutenant felton, john felton
-33. Grimaud: monsieur grimaud, grimaud
-34. Mme. de Montbazon: mme. de montbazon
-35. Mme. de Chevreuse: mme. de chevreuse, duchesse de chevreuse, madame de chevreuse, mme. chevreuse
-36. The Old Man: the old man
-37. Louis the Just: louis the just
-38. Madame de Longueville: madame de longueville
-39. Mousqueton: mousqueton
-40. Baron de Chantal: baron de chantal
-41. The Queen: the queen, her majesty, queen, anne of austria, anne
-42. La Chesnaye: la chesnaye
-43. Baron Sheffield: baron sheffield
-44. Claude de St. Simon: claude de st. simon
-45. My Brother: my brother
-46. Bassette: bassette
-47. Monsieur de Bassopierre: monsieur de bassopierre, m. de bassompierre, mm. bassompierre
-48. Bazin: bazin
-49. Monsieur Chevalier: monsieur chevalier
-50. M. le Comte de Soissons: m. le comte de soissons
-51. Morbleu: morbleu
-52. Monsieur: monsieur, monseigneur
-53. Lucretia: lucretia
-54. Novice: novice, the novice
-55. Duc d'Angouleme: duc d’angouleme, duc d ’a ngou leme
-56. Sergeant: sergeant
-57. Mme. de Sable: mme. de sable
-58. Mme. d'Aguillon: mme. d’aguillon, madame d’aiguillon, mme. d’aiguillon
-59. Armand Jean Duplessis: armand jean duplessis
-60. Louis XIV: louis xiv
-61. George Villiers: george villiers, duke of buckingham, the duke of buckingham
-62. Clement: clement
-63. Francis the First: francis the first
-64. The Duke: the duke, duke
-65. Berrichon: berrichon
-66. Planchet: planchet, monsieur planchet
-67. Monsieur Laporte: monsieur laporte, laporte
-68. Traveler: traveler
-69. Bernajoux: bernajoux
-70. Artagnan: artagnan, d’artagnan, monsieur d’ artagnan, monsieur d’artagnan, m. d’artagnan, lord d’artagnan, d’ artagnan
-71. Monsieur de Buckingham: monsieur de buckingham, buckingham
-72. The Officer: the officer, officer
-73. Madame the Constable: madame the constable
-74. Gascon: gascon
-75. Lansquenet: lansquenet
-76. Mme. de Guemene: mme. de guemene
-77. Sire: sire
-78. Monsieur Putange: monsieur putange, m. le duc de la tremouille, monsieur de putange
-79. St. Peter: st. peter
-80. M. de Liancourt: m. de liancourt
-81. Musketeer: musketeer
-82. The Mendicant: the mendicant, mendicant
-83. Caesar: caesar
-84. The Gentleman: the gentleman
-85. Brutus: brutus
-86. Germain: germain
-87. Louis XIII: louis xiii
-88. Putange: putange
-89. Father: father, the jesuit, priest
-90. Charles I: charles i
-91. Festubert: festubert
-92. Duc d'Orleans: duc d’orleans
-93. Mme. Bonacieux: mme. bonacieux
-94. Patrick: patrick
-95. The Young Man: the young man, the young woman
-96. The Procurator: the procurator, the procurator’s wife
-97. Duc de Guise: duc de guise, chevalier de guise, mme. de guise
-98. The Boatman: the boatman
-99. Brisemont: brisemont
-100. Prince de Soubise: prince de soubise
-101. Monsieur de Louvigny: monsieur de louvigny
-102. Kitty: kitty
-103. Felton: felton
-104. Cardinal: cardinal
-105. Archimedes: archimedes
-106. Schomberg: schomberg, m. de schomberg
-107. Comtesse de la Fere: comtesse de la fere
-108. Constance: constance
-109. Seguier: seguier
-110. John: john
-111. Sieur de la Coste: sieur de la coste
-112. M. Porthos: m. porthos, monsieur porthos, porthos
-113. Captain: captain, the captain
-114. Monsieur Crequy: monsieur crequy
-115. Mordieu: mordieu
-116. M. de Jussac: m. de jussac, jussac
-117. The Abbess: the abbess, the good abbess
-118. M. de la Tremouille: m. de la tremouille, monsieur de la tremouille, duc de la tremouille
-119. The Chancellor: the chancellor
-120. King of Spain: king of spain
-121. Duc de Nevers: duc de nevers
-122. Comtesse de Winter: comtesse de winter, milady de winter
-123. Grimaud: grimaud, mme. de guitaut
-124. Sextus: sextus
-125. Rochefort: rochefort, comte de rochefort
-126. M. de Busigny: m. de busigny
-127. Comtes de Wardes: comtes de wardes
-128. Des Roches le Masle: des roches le masle
-129. Monsieur de Conde: monsieur de conde
-130. M. de Troisville: m. de troisville
-131. Henry IV: henry iv
-132. Vitray: vitray, vitry
-133. The Doctor: the doctor
-134. Besme: besme
-135. Gulliver: gulliver
-136. Marie Michon: marie michon
-137. Athos: athos, monsieur athos
-138. My Friend: my friend
-139. Fourreau: fourreau
-140. Charlotte Backson: charlotte backson
-141. Pluribus Impar: pluribus impar
-142. Alexandre Dumas: alexandre dumas
-143. Monsieur the Curate of Montdidier: monsieur the curate of montdidier
-144. Sardanapalus: sardanapalus
-145. Host: host, the host
-146. The Baron: the baron, baron
-147. Englishman: englishman, the englishman
-148. Cavois: cavois, m. de cavois, monsieur de cavois
-149. Monsieur the Abbe: monsieur the abbe
-150. Marie de Medicis: marie de medicis
-151. Madame: madame, mme. d’artagnan
-152. Pardieu: pardieu
-153. Godeau: godeau
-154. M. de Laffemas: m. de laffemas
-155. Louis XI: louis xi
-156. Chevreuse: chevreuse
-157. Grisette: grisette
-158. His Eminence: his eminence
-159. Mme. de Lannoy: mme. de lannoy
-160. Grand Prior: grand prior
-161. Curate: curate
-162. His Highness Monsieur: his highness monsieur
-163. Picard: picard
-164. Croesus: croesus
-165. Monsieur de Courtivron: monsieur de courtivron
-166. Monsieur the Principal: monsieur the principal, monsieur the principal of amiens
-167. Comte de la Fere: comte de la fere
-168. Your Grace: your grace
-169. Ventrebleu: ventrebleu
-170. Montague: montague
-171. Monsieur Cardinal: monsieur cardinal
-172. Mr. Jackson: mr. jackson
-173. The Guardsman: the guardsman
-174. Hostler: hostler
-175. Milady: milady
-176. Lubin: lubin
-177. Your Eminence: your eminence
-178. My Lord: my lord
-179. Monsieur the Governor: monsieur the governor
-180. God: god
-181. Lucullus: lucullus
-182. Mme. Chevreuse: mme. chevreuse
-183. Monsieur Duke: monsieur duke
-184. Pompey: pompey
-185. St. Martin: st. martin
-186. M. d'Estrees: m. d’estrees
-187. John Felton: john felton
-188. M. D'Artagnan: m. d’artagnan
-189. Curate: curate
-190. The Captain: the captain
-191. The Young Woman: the young woman
-192. Monsieur Commissary: monsieur commissary
-193. Picard: picard
-194. Croesus: croesus
-195. Monsieur de Courtivron: monsieur de courtivron
-196. Monsieur the Principal: monsieur the principal
-197. King: king
-198. Madame de Chevreuse: madame de chevreuse
-199. Madame d'Aiguillon: madame d’aiguillon
-200. Comte de la Fere: comte de la fere
-201. Monseigneur Athos: monseigneur athos
-202. Mme. D'Artagnan: mme. d’artagnan
-203. Your Grace: your grace
-204. Ventrebleu: ventrebleu
-205. Montague: montague
-206. Monsieur Cardinal: monsieur cardinal
-207. Mr. Jackson: mr. jackson
-208. The Guardsman: the guardsman
-209. Monsieur D'Artagnan: monsieur d’artagnan
-210. Jussac: jussac
+Here is the list of characters and their different name variations:
+
+1. Madam Pomfrey: madam	pomfrey, adam	pomfrey
+2. Benjy Fenwick: benjy	fenwick
+3. Barny Weasley: barny	weasley
+4. Aunt Petunia: aunt	petunia, auntpetunia
+5. Sybill Trelawney: sybill	trelawney, professortrelawney, professor	trelawney, trelawney
+6. Octavius Pepper: octavius	pepper
+7. Ernie Prang: ernie	prang
+8. Professor Sprout: professorsprout, professor	sprout, sprout
+9. Gaunt: gaunt
+10. Bellatrix: bellatrix, bellatrixlestrange, bellatrix	lestrange, bellatrix	black
+11. Nymphadora Tonks: nymphadora	tonks, mrs.	tonks, tonks
+12. Mrs. Dursley: mrs.dursley, mrs.	dursley
+13. Dolohov: dolohov
+14. Rita Skeeter: ritaskeeter, rita	skeeter, rita, skeeter
+15. Patricia Stimpson: patricia	stimpson
+16. Runcorn: runcorn
+17. Minerva McGonagall: minervamcgonagall, professor	mcgonagall, minerva, mcgonagall, professor	mcgonagal, minerva	mcgonagall
+18. My Father: my	father, his	father, myfather, father
+19. Bill and Fleur: bill	and	fleur
+20. Snivellus: snivellus
+21. Healer Strout: healer	strout
+22. Florean Fortescue: florean	fortescue, floreanfortescue
+23. Horace Slughorn: horaceslughorn, professor	h.e.f.	slughorn, professor	slughorn, slughorn, professorslughorn
+24. Trevor: trevor
+25. Crookshanks: crookshanks
+26. Marietta: marietta, marietta	edgecombe, mariettaedgecombe
+27. Madam Bones: madambones, madam	bones, amelia	bones
+28. Patil: patil, parvati	patil, padma	patil, parvatipatil, padma
+29. Mr. Wormtail: mr.	wormtail
+30. Dumbledore: umbledore, dumbledore, albusdumbledore, albus	dumbled, albus	percival	wulfric	brian	dumbledore, albus	percival	wulfric	briandumbledore, albus	percival	wulfric	brian	dumbled, professor	dumbledore, professordumbledore, dumbledore
+31. Malcolm: malcolm, malcolm	baddock
+32. Dean Thomas: deanthomas, dean, dean	thomas
+33. To Peter Rowling: to	peter	rowling
+34. Professor Lupin: professorlupin, professor	lupin, remus	lupin, lupin, professor	r.	j.	lupin, remuslupin
+35. Bulstrode: bulstrode, millicentbulstrode
+36. Mrs. Figg: mrs.figg, mrs.	figg, arabella	figg, arabella	doreen	figg
+37. Arkie Alderton: arkie	alderton
+38. Quirke: quirke
+39. Rubeus: rubeus, rubeus	hagrid, professor	hagrid, hagrid
+40. Mr. Ollivander: mr.ollivander, ollivander
+41. Eric Munch: eric	munch
+42. Seamus Finnigan: seamus	finnigan, seamusfinnigan, seamus, finnigan
+43. Mbridge: mbridge
+44. Ludovic Bagman: ludovic	bagman, ludo	bagman, ludo, ludobagman, mr.	ludo	bagman
+45. Mr. Potter: mr.	potter, harry	p-potter, harry	james	potter, harry	potter, harry,	hurry!”	she	mouthed.harry, harry, mr.potter, harrypotter, arry	potter
+46. Stan: stan, stan	shunpike, stanshunpike
+47. Hermione Granger: hermione	granger, hermione	g-granger, hermionegranger, hermione, granger, miss	granger
+48. Aunt Marge: auntmarge, marge
+49. Petrificus Totalus: petrificus	totalus
+50. Madam Malkin: madam	malkin, madammalkin
+51. Minerva: minerva
+52. Professor: professor
+53. Mr. Bode: mr.	bode, broderick	bode, bode
+54. Eloise Midgen: eloisemidgen, eloise	midgen
+55. Dean: dean
+56. Big D: big	d, dudley	demented, dudley	dursley, dudley
+57. Maxime: maxime, madamemaxime, madame	maxime, olympe
+58. Merope Riddle: meroperiddle, merope	gaunt, merope
+59. The Prime Minister: the	prime	minister, prime	minister, primeminister
+60. Leanne: leanne
+61. Professor Moody: professormoody, professor	moody, moody, mad-eye	moody, mad-eyemoody
+62. Hermes: hermes
+63. Madam Maxime: madamemaxime, madame	maxime
+64. Professor Gilderoy Lockhart: professor	gilderoy	lockhart, gilderoylockhart, gilderoy	lockhart, professorlockhart, professor	lockhart, lockhart
+65. Bletchley: bletchley, miles	bletchley
+66. Mr. Weasley: mr.weasley, mr.	weasley, arthur	weasley, arthurweasley
+67. Pius Thicknesse: pius	thicknesse, piusthicknesse, thicknesse
+68. Newt Scamander: newt	scamander
+69. Amelia Bones: amelia	bones, amelia	susanbones
+70. Jugson: jugson
+71. Mr. H. Potter: mr.	h.	potter
+72. Griphook: griphook
+73. Millicent: millicent
+74. Helena Ravenclaw: helena	ravenclaw, helenaravenclaw
+75. Bole: bole
+76. Fenrir Greyback: fenrirgreyback, fenrir	greyback, greyback, fenrir
+77. James: james, james	potter, jamespotter
+78. Adrian Pucey: adrian	pucey, pucey
+79. Narcissa: narcissa, narcissa	malfoy
+80. Angelina: angelina, angelina	johnson
+81. Stewart Ackerley: stewart	ackerley
+82. Cedric Diggory: cedric	diggory, ced, cedricdiggory, mr.	cedric	diggory, mr.diggory, mr.	diggory
+83. Mostafa: mostafa
+84. Sirius Harry: siriusharry
+85. Whitby: whitby
+86. Bagman: bagman
+87. Willy Widdershins: willy	widdershins
+88. Sloper: sloper, jack	sloper
+89. Bob Ogden: bob	ogden, ogden
+90. Chang: chang, cho	chang, cho
+91. Antioch: antioch
+92. Violet: violet
+93. Mum: mum, mum	and	dad
+94. Dirk: dirk, dirk	cresswell
+95. Caradoc Dearborn: caradoc	dearborn
+96. Professor Carrow: professor	carrow, alectocarrow, alecto	carrow
+97. Phineas Nigellus: phineasnigellus, phineas	nigellus, phineas	nigellus	black, phineas
+98. Dragomir Gorgovitch: dragomir	gorgovitch
+99. Crouch: crouch, barty	crouch, mr.	crouch, bartemius	crouch, mr.	bartemiuscrouch
+100. Ced: ced
+101. Nigellus: nigellus
+102. Lily Potter: lily	potter, lily	evans, lily
+103. Malcolm Baddock: malcolm	baddock
+104. Volkov: volkov
+105. Rose: rose
+106. Madam Rosmerta: madam	rosemerta, madam	rosmerta, madamrosmerta, rosmerta
+107. Mullet: mullet
+108. Johnson: johnson, angelina	johnson
+109. Dolores Umbridge: doloresumbridge, weasley, dolores	jane	umbridge, dolores	janeumbridge, dolores	umbridge, umbridge, professor	umbridge, highinquisitor, high	inquisitor, dolores
+110. Lily: lily, lily	potter, lily	evans
+111. Mr. Crouch: mr.crouch, mr.	crouch
+112. Professor Umbridge: professor	umbridge
+113. Noble-looking wizard: noble-looking	wizard
+114. Mr. Moony: mr.	moony
+115. Quirrell: quirrell, professor	quirrell, professorquirrell
+116. Dennis Bishop: dennis	bishop
+117. Professor Tofty: professor	tofty
+118. Fridwulfa: fridwulfa
+119. Aidan Lynch: aidan	lynch
+120. Al: al
+121. High Inquisitor: highinquisitor, high	inquisitor
+122. Maid: maid
+123. Penelope: penelope, penelope	clearwater, penelopeclearwater
+124. Snuffles: snuffles
+125. Professor Bagshot: professor	bagshot, bathilda	bagshot, bathildabagshot
+126. The Gurg: the	gurg, gurg
+127. Prime Minister: primeminister, prime	minister
+128. Golgomath: golgomath
+129. Professor H.E.F. Slughorn: professor	h.e.f.	slughorn
+130. Ernie the Hufflepuff: ernie	the	hufflepuff
+131. Sybill: sybill
+132. Ignotus Peverell: ignotus	peverell, ignotuspeverell, ignotus
+133. Theodore Nott: theodore	nott, nott
+134. Alicia Spinnet: alicia	spinnet, spinnet
+135. Robert Fagles: robertfagles, robert	fagles
+136. Hugo: hugo
+137. Albus Dumbledore: albusdumbledore, albus	dumbledore
+138. Professor Longbottom: professor	longbottom, nevillelongbottom, neville	longbottom, longbottom
+139. Hufflepuff: hufflepuff, helga	hufflepuff, helgahufflepuff
+140. Bellatrix Lestrange: bellatrixlestrange, bellatrix	lestrange
+141. Mrs. Weasley: mrs.weasley, mrs.	weasley, molly	weasley, molly
+142. Gornuk: gornuk
+143. Celestina: celestina, celestina	warbeck, celestinawarbeck
+144. Dad: dad
+145. Mrs. Tonks: mrs.	tonks
+146. Bertha Jorkins: berthajorkins, bertha	jorkins, bertha
+147. Slughorn: slughorn
+148. Parvati Patil: parvati	patil, parvatipatil
+149. Albus: albus
+150. Rosier: rosier
+151. Padma Patil: padma	patil, padma
+152. Oliver Wood: oliver	wood, oliver, wood
+153. Fred Weasley: fred	weasley, fredweasley, fred
+154. The Seer: the	seer
+155. Oliver: oliver
+156. Smith: smith
+157. Felix Felicis: felixfelicis, felix	felicis
+158. Professor Karkaroff: professorkarkaroff, professor	karkaroff, karkaroff
+159. Great Uncle Algie: great	uncle	algie
+160. Lucius Malfoy: lucius	malfoy, luciusmalfoy, lucius
+161. Reg Cattermole: regcattermole, reg	cattermole, cattermole
+162. River: river
+163. Dippet: dippet, armando	dippet, professor	dippet, professordippet
+164. Avery: avery
+165. Aeschylus: aeschylus
+166. Harry Potter: harrypotter, harry	potter, harry
+167. Professor Lockhart: professorlockhart, professor	lockhart, lockhart
+168. The Death Eater: the	death	eater, deatheater
+169. He-Who-Must-Not-Be-Named: he-who-must-not-be-named
+170. Pierre Bonaccord: pierre	bonaccord, bonaccord
+171. Ali Bashir: ali	bashir
+172. Don’ Yeh: don’	yeh
+173. David: david
+174. Barnabas Cuffe: barnabas	cuffe
+175. Phineas Nigellus: phineas	nigellus, phineasnigellus, phineas	nigellus	black, phineas
+176. Bogrod: bogrod
+177. Doge: doge, elphiasdoge, elphias	doge
+178. Fred and George: fred	and	george, george	weasley, george
+179. Professor Flitwick: professor	flitwick, flitwick, professorflitwick
+180. Albus Dumbled: albus	dumbled
+181. Sir Cadogan: sircadogan, sir	cadogan
+182. Helga Hufflepuff: helga	hufflepuff
+183. Kingsley: kingsley, kingsley	shacklebolt, kingsleyshacklebolt
+184. Gellert: gellert, gellert	grindelwald, grindelwald
+185. Rubeus Hagrid: rubeus	hagrid, hagrid
+186. Mr. Borgin: mr.	borgin, borgin
+187. Madam Lestrange: madam	lestrange
+188. Marietta Edgecombe: marietta	edgecombe, mariettaedgecombe
+189. Elphias Doge: elphiasdoge,

@@ -1,297 +1,990 @@
-bonacieux
-bicarat
-monsieur el comte de wardes
-emperor of austria
-dessessart
-monsieur the cardinal
-treville
-monsieur de busigny
-comte de toiras
-monsieur de cahusac
-monsieur de ferussac
-soubrette
-the king
-richelieu
-pierre rouge
-passe-dix
-mazarin
-the executioner
-the mystifier
-marion de lorme
-the commissary
-duc de longueville
-due de chaulnes
-m. coquenard
-monsieur aramis
-lady clarik
-stranger
-acieux
-baron de winter
-madame la premiere presidente
-don quixote
-bois-tracy
-mr. felton
-m. dessessart
-monsieur grimaud
-mme. de montbazon
-mme. de chevreuse
-the old man
-louis the just
-madame de longueville
-mousqueton
-baron de chantal
-the queen
-la chesnaye
-baron sheffield
-king charles i
-madame puritan
-claude de st. simon
-my brother
-bassette
-m. de richelieu
-m. de chevalier dessessart
-monsieur de bassopierre
-bazin
-monsieur chevalier
-m. le comte de soissons
-morbleu
-monsieur
-lucretia
-milady clarik
-novice
-m. de bassompierre
-duc d’angouleme
-sergeant
-comte de wardes
-mme. de sable
-mme. d’aguillon
-armand jean duplessis
-louis xiv
-george villiers
-clement
-francis the first
-the duke
-the cardinal
-camille de bois-tracy
-berrichon
-planchet
-monsieur laporte
-traveler
-bernajoux
-artagnan
-monsieur de buckingham
-the officer
-madame the constable
-gascon
-lansquenet
-monsieur planchet
-mme. de guemene
-sire
-monsieur putange
-m. le duc de la tremouille
-st. peter
-m. de liancourt
-cardinal armand duplessis
-cahusac
-musketeer
-monsieur bonacieux
-the mendicant
-caesar
-the gentleman
-brutus
-germain
-louis xiii
-putange
+madam	pomfrey
+benjy	fenwick
+barny	weasley
+aunt	petunia
+sybill	trelawney
+octavius	pepper
+ernie	prang
+professorsprout
+gaunt
+bellatrix
+nymphadora	tonks
+mrs.dursley
+dolohov
+ritaskeeter
+patricia	stimpson
+runcorn
+minervamcgonagall
+my	father
+bill	and	fleur
+snivellus
+healer	strout
+florean	fortescue
+horaceslughorn
+trevor
+crookshanks
+marietta
+madambones
+patil
+mr.	wormtail
+umbledore
+malcolm
+deanthomas
+to	peter	rowling
+professorlupin
+bulstrode
+mrs.figg
+professortrelawney
+arkie	alderton
+quirke
+rubeus
+mr.ollivander
+professor	mcgonagall
+eric	munch
+seamus	finnigan
+mbridge
+ludovic	bagman
+mr.	potter
+stan
+hermione	granger
+auntmarge
+petrificus	totalus
+madam	malkin
+minerva
+professor
+mr.	bode
+eloisemidgen
+dean
+big	d
+maxime
+meroperiddle
+the	prime	minister
+leanne
+professormoody
+hermes
+madamemaxime
+professor	gilderoy	lockhart
+bletchley
+mr.weasley
+pius	thicknesse
+newt	scamander
+amelia	bones
+jugson
+mr.	h.	potter
+griphook
+millicent
+helena	ravenclaw
+bole
+fenrirgreyback
+myfather
+james
+adrian	pucey
+narcissa
+angelina
+stewart	ackerley
+cedric	diggory
+mostafa
+siriusharry
+his	father
+whitby
+bagman
+willy	widdershins
+sloper
+bob	ogden
+chang
+antioch
+violet
+dumbledore
+mum
+dirk
+caradoc	dearborn
+professor	carrow
+phineasnigellus
+dragomir	gorgovitch
+crouch
+ced
+nigellus
+lily	potter
+malcolm	baddock
+volkov
+rose
+madam	rosemerta
+mullet
+johnson
+doloresumbridge
+weasley
+lily
+mr.crouch
+professor	umbridge
+noble-looking	wizard
+mr.	moony
+quirrell
+dennis	bishop
+professor	tofty
+fridwulfa
+aidan	lynch
+al
+highinquisitor
+maid
+penelope
+snuffles
+professor	bagshot
+the	gurg
+primeminister
+golgomath
+professor	h.e.f.	slughorn
+ernie	the	hufflepuff
+sybill
+ignotus	peverell
+theodore	nott
+alicia	spinnet
+robertfagles
+hugo
+albusdumbledore
+professor	longbottom
 father
-the jesuit
-king james
-lieutenant felton
-bassompierre
-priest
-charles i
-festubert
-monsieur de wardes
-duc d’orleans
-mme. bonacieux
-patrick
-monsieur the commissary
-the young man
-the procurator
-duc de guise
-george villiers, duke of buckingham
-the boatman
-monseigneur
-brisemont
-duchesse de chevreuse
-officer
-prince de soubise
-monsieur de louvigny
-kitty
-felton
-cardinal
-archimedes
-commissary
-schomberg
-comtesse de la fere
-mendicant
-constance
-mm. bassompierre
-her majesty
-seguier
-king henry iv
-john
-buckingham
-sieur de la coste
-m. porthos
-captain
-anne of austria
-monsieur crequy
-mordieu
-m. de jussac
-the abbess
-monsieur porthos
-m. de la tremouille
-lord de winter
-madame coquenard
-monsieur le prince
-monsieur de treville
-the chancellor
-king of spain
-monsieur d’ artagnan
-monsieur dessessart
-duc de nevers
-comtesse de winter
-cardinal de richelieu
-mme. coquenard
-madame the president
-grimaud
-mme. de guitaut
-sextus
-mme. d’aiguillon
-rochefort
-madame de bois-tracy
-m. de busigny
-comtes de wardes
-jacques michel bonacieux
-des roches le masle
-monsieur de conde
-m. de troisville
-henry iv
-comte de rochefort
-vitray
-the doctor
-d’artagnan
-duke of buckingham
-besme
-monsieur de la tremouille
-the duke of buckingham
-gulliver
-chevalier de guise
-marie michon
-athos
-mme. de guise
-queen
-m. de toiras
-my friend
-fourreau
-m. de schomberg
-charlotte backson
-baron de wardes
-pluribus impar
-king louis xiii
-monsieur athos
-alexandre dumas
-the novice
-the stranger
-monsieur the curate of montdidier
-sardanapalus
-host
-the baron
-englishman
-cavois
-monsieur le cardinal richelieu
-cardinal richelieu
-comte de chalus
-monsieur the abbe
-monseigneur the cardinal
-constance bonacieux
-d’ artagnan
-de wardes
-marie de medicis
-madame
-pardieu
+hufflepuff
+bellatrixlestrange
+mrs.weasley
+gornuk
+celestina
+dad
+mrs.	tonks
+berthajorkins
+slughorn
+parvati	patil
+albus
+rosier
+padma	patil
+oliver	wood
+fred	weasley
+the	seer
+oliver
+smith
+felixfelicis
+professorkarkaroff
+great	uncle	algie
+lucius	malfoy
+regcattermole
+river
+dippet
+avery
+aeschylus
+harrypotter
+professorlockhart
+the	death	eater
+he-who-must-not-be-named
+pierre	bonaccord
+ali	bashir
+don’	yeh
+david
+barnabas	cuffe
+phineas	nigellus
+bogrod
+doge
+fred	and	george
+professor	flitwick
+albus	dumbled
+sircadogan
+helga	hufflepuff
+kingsley
+gellert
+rubeus	hagrid
+mr.	borgin
+madam	lestrange
+marietta	edgecombe
+elphiasdoge
+the	knight
+arry	potter
+zabini
+jimmy	peakes
+mr.ronald	weasley
+mrs.	figg
+centaur
+gladys	gudgeon
+dudley
+gibbon
+galatea	merrythought
+firenze
+gilderoylockhart
+professor	marchbanks
+stanley	shunpike
+prongs
+penelope	clearwater
+gilbert	wimple
+ritchie	coote
+dilys	derwent
+granger
+moaningmyrtle
+moody
+eleanor
+seamus
+unclevernon
+ernie
+xenophilius
+professor	slughorn
+professor	burbage
+worple
+headmistress
+madam	rosmerta
+miranda	goshawk
+bella
+sir	patrick
+belby
+hestia
+jordan
+voldemort
+arabella	figg
+beedle	the	bard
+brutal-faced	man
+ladislaw	zamojski
+the	man
+bill	weasley
+adalbert	waffling
+mrs.	finnigan
+cho
+gideon	prewett
+madam	marsh
+vicky	frobisher
+gwenog	jones
+abraxas	malfoy
+cadwallader
+demelza	robins
+witchor	wizard
+severus
+alectocarrow
+tom	the	innkeeper
+nearlyheadless	nick
+padma
+arry
+tomriddle	senior
+percy
+bertha
+professor	lockhart
+fenrir	greyback
+mrs.	roberts
+olympe
+igor	karkaroff
+hassan	mostafa
+dolores	jane	umbridge
+mundungusfletcher
+mr.diggory
+the	wizard
+mr.roberts
+scrimgeour
+arnold	weasley
+prime	minister
+longbottom
+nevillelongbottom
+dirk	cresswell
+professors	marchbanks
+jack	sloper
+igor
+bertha	jorkins
+remus	lupin
+witch	or	wizard
+george
+wilkietwycross
+ted	tonks
+phlegm
+wilbert	slinkhard
+ciceron	harkiss
+ginnyweasley
+piers	polkiss
+riddle-hermione
+bellatrix	lestrange
+to	mackenzie
+vernon	dudley
+mary	elizabeth	cattermole
+mr.	vernon	dursley
+sirius
+cho	chang
+marcusflint
+mr.	filch
+justinfinch-fletchley
+professor	vindictus	viridian
+mrs.	dursley
+bonaccord
+anthony	goldstein
+regulus	black
+summerby
+dolores
+erniemacmillan
+albus	dumbledore
+macmillan
+floreanfortescue
+the	second	brother
+bathilda	bagshot
+tom
+mr.	padfoot
+professor	kettleburn
+ariana	dumbledore
+marcus	flint
+grawpy
+ragnok
+slytherin
+miss
+creevey
+geoffrey	hooper
+rita
+ogden
+odo
+kirke
+abbott
+minister	of	magic
+potter
+mr.lovegood
+tom	riddle
+merchieftainessmurcus
+celestina	warbeck
+j.k.	rowling
+lupin
+madam	puddifoot
+mandy
+professor	black
+rodolphus
+arthur	weasley
+harry	p-potter
+thewitch
+sanguini
+merope
+madampince
 executioner
-your majesty
-m. de wardes
-duc de la tremouille
-m. bonacieux
-godeau
-m. de laffemas
-milady de winter
-lord d’artagnan
-louis xi
-chevreuse
-grisette
-m. de treville
-his eminence
-duc d ’a ngou leme
-the procurator’s wife
-m. de cavois
-sixtus the fifth
-mme. de bernet
-duchess coquenard
-monsieur de putange
-aramis
-hostler
-milady
-anne
-the host
-lubin
-monsieur the principal of amiens
-your eminence
-my lord
-monsieur the governor
-monsieur de cavois
-porthos
-god
-madame bonacieux
-de winter
-the englishman
-laporte
-duke
-his majesty
-lucullus
-mme. chevreuse
-monsieur duke
-pompey
-st. martin
-m. d’estrees
-madame de lannoy
-john felton
-grand prior
-m. d’artagnan
-the good abbess
-curate
-vitry
-the captain
-his highness monsieur
-the young woman
-monsieur commissary
-picard
-croesus
-monsieur de courtivron
-monsieur the principal
-king
-madame de chevreuse
-madame d’aiguillon
-comte de la fere
-monseigneur athos
-mme. d’artagnan
-your grace
-ventrebleu
+nearly	headless	nick
+healer
+dracomalfoy
 montague
-monsieur cardinal
-mr. jackson
-the guardsman
-monsieur d’artagnan
-jussac
+mr.and	mrs.	weasley
+the	oldest	brother
+sir	cadogan
+durmstrang
+hangleton
+errol
+mr.	summers
+wood
+bartycrouch
+sirius	black
+nott
+cassandra	vablatsky
+viktorkrum
+piusthicknesse
+high	inquisitor
+emmeline	vance
+draco
+quigley
+kendra	dumbledore
+perenelle
+first-year	students
+professor	lupin
+kingsley	shacklebolt
+dolores	umbridge
+flitwick
+gawain	robards
+hermione
+mr.	lovegood
+horace
+professorflitwick
+mr.	burke
+mr.malfoy
+blaisezabini
+hermione	g-granger
+professor	binns
+edgar	bones
+karkus
+alfoy
+creevey	brothers
+felix
+caractacusburke
+severussnape
+moon
+charlie
+lucius
+godricgryffindor
+professorslughorn
+mary	cattermole
+tobias	snape
+caractacus	burke
+proudfoot
+miss	granger
+monsieur	delacour
+celestinawarbeck
+katie
+thorfinn	rowle
+baddock
+ruddy
+coote
+dark	lord
+dennis	creevey
+moran
+agrid
+kenzie
+vernon	dursley
+george	weasley
+mad-eye
+ron	and	hermione
+michael
+miss	fawcett
+grindelwald
+rowle
+the	child
+stan	shunpike
+daddy
+hestia	jones
+professor	karkaroff
+luna
+nymphadora
+mr.	ridley
+agatha	timms
+vaisey
+cadmus
+professor	dumbledore
+lavenderbrown
+sorting	hat
+seeker
+sturgis	podmore
+ravenclaw
+amy	benson
+black
+agrippa
+amycus
+hannah	abbott
+brown
+little	miss	perfect
+thebloody	baron
+travers
+fat	friar
+basil
+gellert	grindelwald
+terry	boot
+peakes
+the	barman
+lordvoldemort
+mundungus
+won-won
+professorumbridge
+oldemort
+percy	weasley
+fawkes	the	phoenix
+dedalus
+deatheater
+regulus
+euan	abercrombie
+griselda	marchbanks
+ginny	weasley
+doris	crockford
+master
+sprout
+parvatipatil
+loonylovegood
+bradley
+bathildabagshot
+the	portkey
+t.	m.	riddle
+peeves
+bellatrix	black
+bell
+riddle
+mariettaedgecombe
+mafalda	hopkirk
+mr.	dursley
+james	potter
+ronald	weasley
+yaxley
+xeno	lovegood
+snivelly
+alastor
+armando	dippet
+mrs.	norris
+ludo	bagman
+crabbe
+auntie	muriel
+poor	neville
+evans
+diggory
+mudblood
+hedwig
+winky
+romilda	vane
+romilda
+mrs.	longbottom
+troy
+cornelius	fudge
+penelopeclearwater
+professor	severus	snape
+augustus	rookwood
+veronica	smethley
+mistress
+fenrir
+master	regulus
+dedalus	diggle
+stanshunpike
+mr.	cattermole
+fred
+ginevra
+frank	longbottom
+gregorovitch
+ignotuspeverell
+mrs.black
+gilderoy
+cedric
+burke
+aberforth	dumbledore
+madam	hooch
+rogerdavies
+mr.mason
+gran
+herbert	chorley
+mr.potter
+peter
+jamespotter
+morgana
+mr.	angus	fleet
+captain	flint
+godelot
+katie	bell
+witch
+harry	james	potter
+t.	m.riddle
+marvolo
+seamusfinnigan
+justin
+cornelius	oswald	fudge
+mafalda
+connolly
+the	prince
+hippocrates	smethwyck
+amosdiggory
+bungy
+regulus	arcturus
+mr.	roberts
+ron	weasley
+terence	higgs
+missdelacour
+alecto
+marge
+sinistra
+arthur
+littlemiss	perfect
+remuslupin
+moaning	myrtle
+cedricdiggory
+jessica
+hannah
+tomriddle
+lee
+rodolphuslestrange
+neville	longbottom
+mcgonagall
+brocklehurst
+muriel
+the	bloody	baron
+dudley	demented
+luciusmalfoy
+madamhooch
+andromeda
+scabior
+pigwidgeon
+the	prophet
+dean	thomas
+poliakoff
+derrick
+riddikulus
+professor	grubbly-plank
+madampomfrey
+dolores	janeumbridge
+narcissa	malfoy
+professor	sinistra
+ministry	wizard
+mrs.
+ronan
+percy	the	prefect
+viktor
+cliodna
+dudley	dursley
+mr.	ludo	bagman
+alberic	grunnion
+hereward
+nicolas	flamel
+gryffindor
+mrs.longbottom
+minister
+paracelsus
+olive	hornby
+mad-eyemoody
+argus	filch
+corneliusfudge
+karkaroff
+benjyfenwick
+sturgis
+madame	delacour
+mulciber
+gordon
+madam	edgecombe
+helenaravenclaw
+fudge
+mrs.	cole
+eddie	carmichael
+professordippet
+skeeter
+albus	percival	wulfric	brian	dumbledore
+rufus
+death	eater
+fawkes
+stebbins
+charlieweasley
+araminta	meliflua
+loxias
+milkman
+perkins
+mrs.cattermole
+mrs.	diggory
+xenophiliuslovegood
+romulus
+snape
+finnigan
+pansyparkinson
+macnair
+thicknesse
+mrs.	black
+old	lovegood
+professorquirrell
+headmaster
+ern
+fawcett
+alicelongbottom
+harold	dingle
+william	penn
+mr.	weasley
+tom	riddle	senior
+umbridge
+hepzibah	smith
+aragog
+minerva	mcgonagall
+ludo
+urquhart	rackharrow
+euanabercrombie
+wormtail
+salazar	slytherin
+dobby
+godric	gryffindor
+lockhart
+barry	ryan
+circe
+manager
+your	father
+nagini
+professor	quirrell
+eloise	midgen
+professormcgonagall
+broderick	bode
+fleurdelacour
+half-blood	prince
+dorcas	meadowes
+house-elf
+for	jessica
+royal
+rowena	ravenclaw
+bathilda
+charlie	weasley
+pomona
+ernie	macmillan
+robert	fagles
+binns
+wilkie	twycross
+professorvector
+justin	finch-fletchley
+norbert
+cattermole
+the	stranger
+alecto	carrow
+pettigrew
+millicentbulstrode
+angelina	johnson
+ron
+fredweasley
+hokey
+mrs.norris
+grawp
+augustus	pye
+harry
+marvolo	gaunt
+marius
+uncle	vernon
+dedalusdiggle
+fleur
+rookwood
+rabastan
+poppy
+beedle
+terry
+my	mother
+mr.	bartemiuscrouch
+rita	skeeter
+urquhart
+flamel
+firebolt
+the	dark	lord
+mr.	and	mrs.	weasley
+professor	moody
+colin	creevey
+ludobagman
+jim	mcguffin
+adam	pomfrey
+argus
+twycross
+rodent
+helgahufflepuff
+kenneth	towler
+grindelvald
+myrtle
+roger	davies
+mr.	mason
+hermionegranger
+goblin
+amos	diggory
+spinnet
+auntpetunia
+veronicasmethley
+grubbly-plank
+bardy	weadley
+professor	sprout
+reg
+lavender
+stranger
+fabian	prewett
+susan
+bane
+mclaggen
+vernon
+missedgecombe
+the	first	brother
+walden	macnair
+mr.	crouch
+levski
+ronald
+miss	fleur	delacour
+marcus	belby
+mr.borgin
+professor	trelawney
+your	mother
+ivanova
+blaise
+professor	hagrid
+georgeweasley
+apolline
+professorsinistra
+cissy
+savage
+finch-fletchley
+phineas	nigellus	black
+ted
+dennis
+mother
+lavender	brown
+bode
+harry	potter
+draco	malfoy
+mr.	gaunt
+zacharias
+ambrosius	flume
+goyle
+mum	and	dad
+petunia
+the	goblin
+lee	jordan
+pucey
+siriusblack
+madamrosmerta
+professor	snape
+professor	vector
+horace	slughorn
+rosmerta
+antonin	dolohov
+lunalovegood
+zachariassmith
+eileen	prince
+ermione
+magorian
+fang
+frank
+professorgrubbly-plank
+dimitrov
+selwyn
+parkinson
+the	boy
+harper
+sir	patrick	delaney-podmore
+zograf
+mrs.	weasley
+professor	r.	j.	lupin
+dragomir	despard
+you-know-who
+wotcher
+ginny
+flint
+my	master
+lynch
+krum
+eldred	worple
+mrs.	cattermole
+zacharias	smith
+charity	burbage
+sir	nicholas	de	mimsy-porpington
+scabbers
+mrs.	hetty	bayliss
+the	baron
+professordumbledore
+cuthbert	mockridge
+ronweasley
+albert
+nick
+tiberius	ogden
+molly	weasley
+healer	smethwyck
+remus	john	lupin
+arabella	doreen	figg
+mr.	slinkhard
+chochang
+colonel	fubster
+kendra
+shacklebolt
+mrs.	mason
+trelawney
+keeper	bletchley
+lily	evans
+libatius	borage
+neville
+death
+dexter	fortescue
+madammalkin
+mr.	ollivander
+mr.	viktor	krum
+frank	bryce
+barty	crouch
+bloody	baron
+dursley
+mr.	bagman
+felix	felicis
+greyback
+colincreevey
+mr.	longbottom
+gabrielle
+madame	maxime
+warrington
+cornelius
+bertram	aubrey
+professorsnape
+millicent	bulstrode
+emeric	the	evil
+lord	voldemort
+archie
+madam	bones
+egbert	the	egregious
+peter	pettigrew
+arnoldpeasegood
+borgin
+filch
+harry,	hurry!”	she	mouthed.harry
+susan	bones
+colin
+mr.dursley
+elphias	“dogbreath”	doge
+to	neil
+miles	bletchley
+gregory	goyle
+dementor
+blonde	girl
+professor	merrythought
+reg	cattermole
+pritchard
+xenophilius	lovegood
+master	barty
+bill
+katiebell
+demelza
+ignotus
+mr.nicolas	flamel
+hengist	of	woodcroft
+madam	pince
+masterregulus
+dora
+victoire
+vincent	crabbe
+mr.	diggory
+cormac	mclaggen
+susanbones
+merlin
+severus	snape
+professor	dippet
+argusfilch
+mr.	lucius	malfoy
+pansy	parkinson
+malfoy
+parvati
+mr.	cedric	diggory
+amelia	susanbones
+first	year
+mad-eye	moody
+professors	mcgonagall
+viktor	krum
+ollivander
+morfin
+aunt	marge
+miss	edgecombe
+darklord
+prince
+alicia
+dawlish
+albus	percival	wulfric	briandumbledore
+amos
+mr.	malfoy
+pansy
+dung
+the	snitch
+alastor	moody
+billy	stubbs
+teddy	lupin
+apollyon	pringle
+phineas
+avada	kedavra
+arthurweasley
+tonks
+guard
+perce
+gilderoy	lockhart
+bartemius	crouch
+luna	lovegood
+mundungus	fletcher
+ragnuk	the	first
+roddy	pontner
+barnabas	deverill
+hagrid
+bagshot
+michael	corner
+percival
+ron	andhermione
+regulusblack
+bones
+fat	lady
+merope	gaunt
+mr.	prongs
+ariana
+remus
+aberforth
+molly
+andrew	kirke
+romildavane
+william	arthur
+rufus	scrimgeour
+elphias	doge
+snitch
+mcdonald
+piers
+fleur	delacour
+kingsleyshacklebolt
+gurg
+fellow	sixth	years
+kreacher
+mary	dorkins
+agnes
+hepzibah
