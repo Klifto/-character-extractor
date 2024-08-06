@@ -122,8 +122,6 @@ def process_characters():
     with open("./characters_list/characters.txt", "r", encoding='utf-8') as f:
         elements = f.read()
     elements = elements.replace("\n", ", ")
-    #elements = [elements,[]]
-    #find_similars(elements_list=elements)
     llm = AzureChatOpenAI(
         azure_deployment="gpt4",
         api_version="2024-05-01-preview",
@@ -151,7 +149,7 @@ def generate_descriptions():
         elements = f.read()
     
     llm = AzureChatOpenAI(
-        azure_deployment="gpt4",
+        azure_deployment="chatgpt",
         api_version="2024-05-01-preview",
         temperature=0,
         max_tokens=None,
@@ -173,8 +171,7 @@ def generate_descriptions():
                   path=Embedding_store_path)
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
     list_elements = elements.split("\n")
-    charater_descriptions = []
-    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 30}) #Definicion buscador
+    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 22}) #Definicion buscador
 
     #Cargamos un modelo jusnto con el retirever
     qa_chain_instrucEmbed = RetrievalQA.from_chain_type(llm=llm, 
@@ -186,27 +183,12 @@ def generate_descriptions():
         for i in list_elements: 
             f.write(i + '\n')
             query=character_description_prompt + f"{i}"
-            llm_response = qa_chain_instrucEmbed(query)
-            f.write('\n' + process_llm_response(llm_response) + '\n')
+            try:
+                llm_response = qa_chain_instrucEmbed(query)
+                f.write('\n' + process_llm_response(llm_response) + '\n')
+            except Exception as e:
+                print(f"Fail to generate respond reason: {e}")    
     return None
-
-def find_similars(elements_list):
-    if elements_list[0]:
-        similar_elements = []
-        core_element = elements_list[0][0]
-        similar_elements.append(core_element)
-        for position, rest_elemet in enumerate(elements_list[0][1:]):
-            if similar(core_element, rest_elemet) > 0.6:
-                similar_elements.append(rest_elemet)
-                elements_list[0].pop(position)
-        elements_list.append(similar_elements)
-        elements_list[0].pop(0)
-        find_similars(elements_list)
-    else:
-        return elements_list
-
-def similar(a, b):
-    return SequenceMatcher(None, a, b).ratio()
 
 if __name__=="__main__":
     #extract_characters()
