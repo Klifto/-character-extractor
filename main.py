@@ -14,7 +14,7 @@ from langchain.embeddings import HuggingFaceInstructEmbeddings
 import textwrap
 from dotenv import load_dotenv
 
-from prompts import character_description_prompt,system_message
+from prompts import character_description_prompt,system_message,system_message_metric
 import nltk
 from nltk.corpus import stopwords
 
@@ -149,7 +149,7 @@ def generate_descriptions():
         elements = f.read()
     
     llm = AzureChatOpenAI(
-        azure_deployment="chatgpt",
+        azure_deployment="chatgpt16",
         api_version="2024-05-01-preview",
         temperature=0,
         max_tokens=None,
@@ -171,7 +171,7 @@ def generate_descriptions():
                   path=Embedding_store_path)
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
     list_elements = elements.split("\n")
-    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 22}) #Definicion buscador
+    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 30}) #Definicion buscador
 
     #Cargamos un modelo jusnto con el retirever
     qa_chain_instrucEmbed = RetrievalQA.from_chain_type(llm=llm, 
@@ -190,7 +190,34 @@ def generate_descriptions():
                 print(f"Fail to generate respond reason: {e}")    
     return None
 
+def get_performance():
+    with open("./characters_list/characters_final_solution_test.txt", "r", encoding='utf-8') as f:
+        elements = f.read()
+    with open("./characters_list/wiki_harry_potter_list.txt", "r", encoding='utf-8') as f:
+        elements_true = f.read()
+
+    llm = AzureChatOpenAI(
+        azure_deployment="chatgpt16",
+        api_version="2024-05-01-preview",
+        temperature=0,
+        max_tokens=None,
+        timeout=None,
+        max_retries=2,
+        )
+    
+    messages = [
+    (
+        "system",
+        system_message_metric,
+    ),
+    ("human", f"Give us the performance if the generated list description is [{elements}] and the true list description is [{elements_true}]. Do it step by step."),
+    ]
+    ai_msg = llm.invoke(messages)
+    print(ai_msg.content)
+    return None
+
 if __name__=="__main__":
     #extract_characters()
     #process_characters()
-    generate_descriptions()
+    #generate_descriptions()
+    get_performance()
