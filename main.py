@@ -20,6 +20,7 @@ from nltk.corpus import stopwords
 
 load_dotenv()
 
+model_name = "gpt4"
 def wrap_text_preserve_newlines(text, width=110):
     # Split the input text into lines based on newline characters
     lines = text.split('\n')
@@ -123,7 +124,7 @@ def process_characters():
         elements = f.read()
     elements = elements.replace("\n", ", ")
     llm = AzureChatOpenAI(
-        azure_deployment="gpt4",
+        azure_deployment=model_name,
         api_version="2024-05-01-preview",
         temperature=0,
         max_tokens=None,
@@ -139,17 +140,17 @@ def process_characters():
     ]
     ai_msg = llm.invoke(messages)
     print(ai_msg.content)
-    with open("./characters_list/characters_final.txt", "w", encoding='utf-8') as f:
+    with open(f"./characters_list/{model_name}/characters_preprocessed.txt", "w", encoding='utf-8') as f:
         for i in ai_msg.content.split('\n'): 
             f.write(i + '\n')
     return elements
 
 def generate_descriptions():
-    with open("./characters_list/characters_test.txt", "r", encoding='utf-8') as f:
+    with open(f"./characters_list/{model_name}/characters_preprocessed.txt", "r", encoding='utf-8') as f:
         elements = f.read()
     
     llm = AzureChatOpenAI(
-        azure_deployment="chatgpt16",
+        azure_deployment=model_name,
         api_version="2024-05-01-preview",
         temperature=0,
         max_tokens=None,
@@ -171,15 +172,14 @@ def generate_descriptions():
                   path=Embedding_store_path)
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
     list_elements = elements.split("\n")
-    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 30}) #Definicion buscador
+    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 22}) #Definicion buscador
 
     #Cargamos un modelo jusnto con el retirever
     qa_chain_instrucEmbed = RetrievalQA.from_chain_type(llm=llm, 
                                   chain_type="stuff", 
                                   retriever=retriever, 
                                   return_source_documents=True)
-    #with open("characters_final_solution.txt", "w", encoding='utf-8') as f:
-    with open("./characters_list/characters_final_solution_test.txt", "w", encoding='utf-8') as f:
+    with open(f"./characters_list/{model_name}/characters_descriptions.txt", "w", encoding='utf-8') as f:
         for i in list_elements: 
             f.write(i + '\n')
             query=character_description_prompt + f"{i}"
@@ -190,14 +190,37 @@ def generate_descriptions():
                 print(f"Fail to generate respond reason: {e}")    
     return None
 
+from difflib import SequenceMatcher
+
+def similar(a, b):
+    return SequenceMatcher(None, a, b).ratio()
+
 def get_performance():
-    with open("./characters_list/characters_final_solution_test.txt", "r", encoding='utf-8') as f:
+    with open(f"./characters_list/{model_name}/characters_descriptions.txt", "r", encoding='utf-8') as f:
         elements = f.read()
     with open("./characters_list/wiki_harry_potter_list.txt", "r", encoding='utf-8') as f:
         elements_true = f.read()
 
+    elements_true = elements_true.split("\n")
+    elements_true_dict = {}
+    for i in elements_true:
+        elements_true_dict[i.split(" – ")[0]] = i.split(" – ")[1]
+    
+    elements = elements.split("\n")
+    elements = [i for i in elements if i != '']
+    descriptions = {}
+    element_name = elements[0]
+    element_description = ''
+    for i in elements[1:]:
+        if i[0] in ('0', '1', '2', '3', '4', '5', '6', '7', '8', '9'):
+            descriptions[element_name] = element_description
+            element_name = i
+            element_description = ''
+        else:
+            element_description += i
+    
     llm = AzureChatOpenAI(
-        azure_deployment="chatgpt16",
+        azure_deployment="gpt4",
         api_version="2024-05-01-preview",
         temperature=0,
         max_tokens=None,
@@ -205,19 +228,59 @@ def get_performance():
         max_retries=2,
         )
     
-    messages = [
-    (
-        "system",
-        system_message_metric,
-    ),
-    ("human", f"Give us the performance if the generated list description is [{elements}] and the true list description is [{elements_true}]. Do it step by step."),
-    ]
-    ai_msg = llm.invoke(messages)
-    print(ai_msg.content)
+    characters_with_description = []
+    alucionaciones = []
+    character_name_list = []
+    for character_name, charater_description in descriptions.items():
+        character_name_list = [i.strip() for i in character_name.split(':')[1].split(',')]
+        character_name_list.append('.'.join(character_name.split(':')[0].split('.')[1:]).strip()) #nombre principal
+        similarity = {}
+        for i in character_name_list:
+            name_similarity = []
+            for real_name in elements_true_dict.keys():
+                name_similarity.append(similar(i, real_name))
+            similarity[max(name_similarity)] = name_similarity.index(max(name_similarity)) #Guardamos el valor mayor de similitud y su posicion
+        
+        # obtenemos la descripcion real con mejor similitud 
+        position = similarity[max(list(similarity.keys()))]
+        real_description = list(elements_true_dict.values())[position]
+        real_name_ = list(elements_true_dict.keys())[position]
+        messages = [
+        (
+            "system",
+            system_message_metric,
+        ),
+        #("human", f"Give us the performance if the generated list description is [{elements}] and the true list description is [{elements_true}]. Do it step by step."),
+        ("human", f"Check if this two character descriptions macth; first description : {charater_description}, second description: {real_description}. "),
+        ]
+        ai_msg = llm.invoke(messages)
+        if int(ai_msg.content) == 1:
+            characters_with_description.append(real_name_)
+        elif int(ai_msg.content) == 0:
+            alucionaciones.append(character_name)
+        else:
+            print(f"WARNING VALUE: {ai_msg.content}")
+
+    #characters_with_description = list(set(characters_with_description))#Borramos elementos repetidos
+
+    with open(f"./characters_list/{model_name}/metric.txt", "w", encoding='utf-8') as f:
+        f.write("Personajes detectados de forma correcta:\n")
+        for i in characters_with_description:
+            f.write('  ' + i + '\n')
+        character_with_no_description = [i for i in list(elements_true_dict.keys()) if i not in characters_with_description]
+        f.write("Personajes no detectados de forma correcta:\n")
+        for i in character_with_no_description:
+            f.write('  ' + i + '\n')
+        f.write("Alucionaciones:\n")
+        for i in alucionaciones:
+            f.write('  ' + i + '\n')
+        f.write(f"Detectados correctamente: {len(characters_with_description)}\n")
+        f.write(f"No Detectados correctamente: {len(character_with_no_description)}\n")
+        f.write(f"Alucinaciones: {len(alucionaciones)}\n")
     return None
 
 if __name__=="__main__":
     #extract_characters()
-    #process_characters()
-    #generate_descriptions()
+    process_characters()
+    generate_descriptions()
     get_performance()

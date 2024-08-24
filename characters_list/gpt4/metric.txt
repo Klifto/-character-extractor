@@ -1,0 +1,304 @@
+Personajes detectados de forma correcta:
+  Justin Finch-Fletchley
+  Bathilda Bagshot
+  Hannah Abbott
+  Blaise Zabini
+  Madam Malkin
+  Madam Rosmerta
+  Bane
+  Millicent Bulstrode
+  Albus Dumbledore
+  Bill Weasley
+  Ronan
+  Peter Pettigrew
+  Ginny Weasley
+  Regulus Black
+  Xenophilius Lovegood
+  Hermione Granger
+  Cho Chang
+  Fleur Delacour
+  Scabior
+  Griselda Marchbanks
+  Septima Vector
+  Padma Patil
+  Harry Potter
+  Severus Snape
+  Seamus Finnigan
+  Augusta Longbottom
+  Rufus Scrimgeour
+  Neville Longbottom
+  Muggle Prime Minister
+  Cuthbert Binns
+  Antonin Dolohov
+  Lee Jordan
+  Gornuk
+  Barty Crouch Sr
+  Gellert Grindelwald (/ˈɡrɪndəlˌvɔːld, -ˌwɔːld/)
+  Dolores Umbridge
+  Amycus Carrow
+  Ludo Bagman
+  Minerva McGonagall
+  Armando Dippet
+  Stan Shunpike
+  Ernie Macmillan
+Personajes no detectados de forma correcta:
+  Katie Bell
+  Phineas Nigellus Black
+  Sirius Black
+  Amelia Bones
+  Susan Bones
+  Terry Boot
+  Lavender Brown
+  Charity Burbage
+  Frank Bryce
+  Alecto Carrow
+  Reginald Cattermole
+  Penelope Clearwater
+  Crabbe
+  Vincent Crabbe
+  Colin Creevey
+  Dennis Creevey
+  Dirk Cresswell
+  Barty Crouch Jr
+  John Dawlish
+  Gabrielle Delacour
+  Dedalus Diggle
+  Amos Diggory
+  Cedric Diggory
+  Elphias Doge
+  Aberforth Dumbledore
+  Ariana Dumbledore
+  Kendra Dumbledore
+  Percival Dumbledore
+  Dudley Dursley
+  Marge Dursley
+  Petunia Dursley
+  Vernon Dursley
+  Marietta Edgecombe
+  Arabella Figg
+  Argus Filch
+  Nicolas Flamel
+  Mundungus Fletcher
+  Filius Flitwick
+  Cornelius Fudge
+  Marvolo Gaunt
+  Merope Gaunt
+  Morfin Gaunt
+  Anthony Goldstein
+  Goyle
+  Gregory Goyle
+  Mr. and Mrs. Granger
+  Astoria Greengrass
+  Gregorovitch
+  Fenrir Greyback
+  Wilhelmina Grubbly-Plank
+  Godric Gryffindor
+  Rubeus Hagrid
+  Rolanda Hooch
+  Mafalda Hopkirk
+  Helga Hufflepuff
+  Angelina Johnson
+  Bertha Jorkins
+  Igor Karkaroff
+  Viktor Krum
+  Silvanus Kettleburn
+  Bellatrix Lestrange
+  Gilderoy Lockhart
+  Alice and Frank Longbottom
+  Luna Lovegood
+  Remus Lupin
+  Teddy Lupin
+  Walden Macnair
+  Draco Malfoy
+  Lucius Malfoy
+  Narcissa Malfoy
+  Scorpius Malfoy
+  Olympe Maxime
+  Eloise Midgen
+  Cormac McLaggen
+  Graham Montague
+  Alastor "Mad-Eye" Moody
+  Theodore Nott
+  Nott Sr
+  Bob Ogden
+  Garrick Ollivander
+  Pansy Parkinson
+  Parvati Patil
+  Antioch, Cadmus, and Ignotus Peverell
+  Irma Pince
+  Sturgis Podmore
+  Poppy Pomfrey
+  James Potter
+  Lily Potter
+  Albus Severus Potter
+  James Sirius Potter
+  Lily Luna Potter
+  Apollyon Pringle
+  Quirinus Quirrell
+  Helena Ravenclaw/The Grey Lady
+  Rowena Ravenclaw
+  Delphi Riddle
+  Mary Riddle
+  Thomas Riddle
+  Tom Riddle Sr.
+  Tom Marvolo Riddle
+  Demelza Robins
+  Augustus Rookwood
+  Thorfinn Rowle
+  Albert Runcorn
+  Newt Scamander
+  Kingsley Shacklebolt
+  Aurora Sinistra
+  Rita Skeeter
+  Horace Slughorn
+  Salazar Slytherin
+  Zacharias Smith
+  Alicia Spinnet
+  Pomona Sprout
+  Pius Thicknesse
+  Dean Thomas
+  Andromeda Tonks
+  Nymphadora Tonks
+  Ted Tonks
+  Sybill Trelawney
+  Wilkie Twycross
+  Emmeline Vance
+  Romilda Vane
+  Lord Voldemort (Tom Marvolo Riddle)
+  Myrtle Warren/Moaning Myrtle[29]
+  Arthur Weasley
+  Charlie Weasley
+  Fred Weasley
+  George Weasley
+  Hugo Granger-Weasley
+  Molly Weasley
+  Percy Weasley
+  Ron Weasley
+  Oliver Wood
+  Rose Granger-Weasley
+  Corban Yaxley
+  Aragog
+  Beedle the Bard
+  The Bloody Baron
+  Bogrod
+  Buckbeak
+  Sir Cadogan
+  Crookshanks
+  Dobby
+  Errol
+  Fang
+  The Fat Friar
+  The Fat Lady
+  Fawkes
+  Firenze
+  Fluffy
+  Grawp
+  Griphook
+  Hedwig
+  Hokey
+  Kreacher
+  Leanne
+  Magorian
+  Great Aunt Muriel
+  Nagini
+  Nearly Headless Nick
+  Norbert
+  Peeves
+  Pigwidgeon
+  Scabbers
+  Hepzibah Smith
+  Tom
+  Travers
+  Trevor
+  Winky
+Alucionaciones:
+  2. The Gurg: the gurg, gurg
+  5. Mr. Dursley: mr.dursley, mr. dursley, mrs. dursley
+  6. Malcolm Baddock: malcolm baddock, baddock
+  7. Marcus Belby: marcus belby, belby
+  8. Professor Merrythought: professor merrythought, galatea merrythought
+  9. Mary Elizabeth Cattermole: mary elizabeth cattermole, mrs. cattermole, mary cattermole
+  10. Nott: nott, theodore nott
+  11. Agnes: agnes
+  16. Poppy: poppy, madampomfrey, madam pomfrey
+  22. His Father: his father, your father
+  24. Karkus: karkus
+  25. T. M. Riddle: t. m. riddle, tom riddle, tomriddle, tom riddle senior, tomriddle senior
+  28. Abraxas Malfoy: abraxas malfoy
+  29. Bletchley: bletchley, miles bletchley
+  33. Whitby: whitby
+  34. Petrificus Totalus: petrificus totalus
+  35. Mr. Burke: mr. burke, caractacus burke, caractacusburke
+  37. Agrid: agrid
+  39. Arnold Peasegood: arnoldpeasegood
+  41. Stebbins: stebbins
+  43. Mandy: mandy
+  44. Headmaster: headmaster, headmistress
+  45. Felix: felix, felix felicis, felixfelicis
+  46. Hestia: hestia, hestia jones
+  47. Ruddy: ruddy
+  49. Augustus Pye: augustus pye
+  50. Ron and Hermione: ron andhermione, ron and hermione
+  53. Ivanova: ivanova
+  55. Mrs. Weasley: mrs. weasley, mrs.weasley, mr. and mrs. weasley, mr.and mrs. weasley
+  60. Voldemort: voldemort, lord voldemort, he-who-must-not-be-named, you-know-who, dark lord, darklord, oldemort, the dark lord
+  61. Godelot: godelot
+  62. Brocklehurst: brocklehurst
+  63. Benjy Fenwick: benjyfenwick, benjy fenwick
+  67. Jimmy Peakes: jimmy peakes
+  68. Witch or Wizard: witchor wizard, witch or wizard
+  69. Anthony Goldstein: anthony goldstein
+  74. Olive Hornby: olive hornby
+  76. J.K. Rowling: j.k. rowling
+  77. Mrs. Hetty Bayliss: mrs. hetty bayliss
+  79. Kenneth Towler: kenneth towler
+  81. The Second Brother: the second brother
+  83. Bulstrode: bulstrode, millicent bulstrode, millicent
+  84. Karkus: karkus
+  85. T. M. Riddle: t. m. riddle, tom riddle, tomriddle, tom riddle senior, tomriddle senior
+  88. Abraxas Malfoy: abraxas malfoy
+  89. Bletchley: bletchley, miles bletchley
+  93. Whitby: whitby
+  94. Petrificus Totalus: petrificus totalus
+  95. Mr. Burke: mr. burke, caractacus burke, caractacusburke
+  97. Agrid: agrid
+  99. Arnold Peasegood: arnoldpeasegood
+  100. Baddock: baddock, malcolm baddock
+  103. Stebbins: stebbins
+  105. Mandy: mandy
+  106. Headmaster: headmaster, headmistress
+  107. Felix: felix, felix felicis, felixfelicis
+  108. Hestia: hestia, hestia jones
+  109. Ruddy: ruddy
+  111. Augustus Pye: augustus pye
+  112. Ron and Hermione: ron andhermione, ron and hermione
+  115. Ivanova: ivanova
+  117. Mrs. Weasley: mrs. weasley, mrs.weasley, mr. and mrs. weasley, mr.and mrs. weasley
+  122. Voldemort: voldemort, lord voldemort, he-who-must-not-be-named, you-know-who, dark lord, darklord, oldemort, the dark lord
+  123. Godelot: godelot
+  124. Brocklehurst: brocklehurst
+  125. Benjy Fenwick: benjyfenwick, benjy fenwick
+  129. Jimmy Peakes: jimmy peakes
+  130. Witch or Wizard: witchor wizard, witch or wizard
+  131. Anthony Goldstein: anthony goldstein
+  136. Olive Hornby: olive hornby
+  138. J.K. Rowling: j.k. rowling
+  139. Mrs. Hetty Bayliss: mrs. hetty bayliss
+  141. Kenneth Towler: kenneth towler
+  143. The Second Brother: the second brother
+  144. Ernie: ernie, ernie the hufflepuff, ernie macmillan, erniemacmillan, ernie prang
+  145. Bulstrode: bulstrode, millicent bulstrode, millicent
+  146. Karkus: karkus
+  147. T. M. Riddle: t. m. riddle, tom riddle, tomriddle, tom riddle senior, tomriddle senior
+  150. Abraxas Malfoy: abraxas malfoy
+  151. Bletchley: bletchley, miles bletchley
+  155. Whitby: whitby
+  156. Petrificus Totalus: petrificus totalus
+  157. Mr. Burke: mr. burke, caractacus burke, caractacusburke
+  159. Agrid: agrid
+  161. Arnold Peasegood: arnoldpeasegood
+  162. Baddock: baddock, malcolm baddock
+  165. Stebbins: stebbins
+Detectados correctamente: 42
+No Detectados correctamente: 169
+Alucinaciones: 87
