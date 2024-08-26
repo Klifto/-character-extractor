@@ -18,24 +18,22 @@ from prompts import character_description_prompt,system_message,system_message_m
 import nltk
 from nltk.corpus import stopwords
 
-load_dotenv()
+load_dotenv() #Carga fichero .env con las claves de la API
 
-model_name = Nombre_modelo
-version_api = Version_api
+model_name = Nombre_modelo #Modelo a usar
+version_api = Version_api #Version api a usar
 
 def wrap_text_preserve_newlines(text, width=110):
-    # Split the input text into lines based on newline characters
     lines = text.split('\n')
-
-    # Wrap each line individually
     wrapped_lines = [textwrap.fill(line, width=width) for line in lines]
-
-    # Join the wrapped lines back together using newline characters
     wrapped_text = '\n'.join(wrapped_lines)
 
     return wrapped_text
 
 def process_llm_response(llm_response):
+    """
+    Procesa la respuesta de un LLM
+    """
     print(wrap_text_preserve_newlines(llm_response['result']))
     print('\nSources:')
     for source in llm_response["source_documents"]:
@@ -91,6 +89,9 @@ def store_embeddings(docs, embeddings, store_name, path):
     return None
 
 def extract_characters():
+    """
+    Función que extrae los personajes de un libro mediante técnicas NER
+    """
     text = load_data(path=f'.//books', chunk_size=1000, chunk_overlap=0)
     model = GLiNER.from_pretrained("urchade/gliner_medium-v2.1")
     labels = ["person"]
@@ -123,6 +124,9 @@ def extract_characters():
             f.write(i + '\n')
 
 def process_characters():
+    """
+    Procesa los personajes encontrados para evitar repeticiones
+    """
     with open("./characters_list/characters.txt", "r", encoding='utf-8') as f:
         elements = f.read()
     elements = elements.replace("\n", ", ")
@@ -151,6 +155,9 @@ def process_characters():
     return elements
 
 def generate_descriptions():
+    """
+    Genera descripciones de los personajes localizados
+    """
     with open(f"./characters_list/{model_name}/characters_preprocessed.txt", "r", encoding='utf-8') as f:
         elements = f.read()
     
@@ -201,9 +208,15 @@ def generate_descriptions():
 from difflib import SequenceMatcher
 
 def similar(a, b):
+    """
+    Calcula la similitud entre 2 strings
+    """
     return SequenceMatcher(None, a, b).ratio()
 
 def get_performance():
+    """
+    Genera las métricas de desempeño del LLM
+    """
     with open(f"./characters_list/{model_name}/characters_descriptions.txt", "r", encoding='utf-8') as f:
         elements = f.read()
     with open("./characters_list/first_book_characters.txt", "r", encoding='utf-8') as f:
