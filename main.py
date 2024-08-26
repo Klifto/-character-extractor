@@ -273,7 +273,6 @@ def get_performance():
             "system",
             system_message_metric,
         ),
-        #("human", f"Give us the performance if the generated list description is [{elements}] and the true list description is [{elements_true}]. Do it step by step."),
         ("human", f"Check if this two character descriptions macth; first description : {charater_description}, second description: {real_description}. "),
         ]
         ai_msg = llm.invoke(messages)
@@ -283,8 +282,6 @@ def get_performance():
             alucionaciones.append(character_name)
         else:
             print(f"WARNING VALUE: {ai_msg.content}")
-
-    #characters_with_description = list(set(characters_with_description))#Borramos elementos repetidos
 
     with open(f"./characters_list/{model_name}/metric.txt", "w", encoding='utf-8') as f:
         f.write("Personajes detectados de forma correcta:\n")
