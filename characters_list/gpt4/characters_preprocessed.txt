@@ -1,344 +1,120 @@
-1. Rapier
-- rapier
-
-2. Phineas
-- phineas, phineasnigellus
-
-3. Dirk
-- dirk
-
-4. Cresswell
-- cresswell
-
-5. Filius
-- filius
-
-6. Cho Chang
-- chochang, cho
-
-7. Professor Trelawney
-- professor, trelawney, sybill, sybilltrelawney
-
-8. Daillewellyn
-- daillewellyn
-
-9. Ward
-- ward
-
-10. Mafalda
-- mafalda, mafaldahopkirk
-
-11. Potter
-- potter, mr.potter, harry, harrypotter, arry, arrypotter
-
-12. Professor Burbage
-- professor, burbage, charityburbage
-
-13. Headmaster
-- headmaster
-
-14. Worple
-- worple, eldredworple
-
-15. Centaur
-- centaur
-
-16. Prophet
-- prophet, theprophet
-
-17. Dumbledore
-- professor, dumbledore, dumbledores, albus, albusdumbledore, albuspercivalwulfricbriandumbledore
-
-18. Hepzibah
-- hepzibah, hepzibahsmith
-
-19. Fred Weasley
-- fredweasley, fred, fredandgeorge, george, georgeweasley
-
-20. The Large Boy
-- thelarge, boy
-
-21. Smith
-- smith, zachariassmith
-
-22. Bagshot
-- bagshot, bathildabagshot
-
-23. Bletchley
-- bletchley
-
-24. Madam Pince
-- madampince, madam, pince
-
-25. The Gray Lady
-- the, gray, lady, helenaravenclaw
-
-26. Professors Marchbanks
-- professors, marchbanks, griseldamarchbanks
-
-27. Blaise Zabini
-- blaisezabini, zabini
-
-28. Gladys Gudgeon
-- gladys, gudgeon
-
-29. Euan Abercrombie
-- euan, abercrombie, eu
-
-30. Eleanor
-- eleanor
-
-31. The Prince
-- the, prince
-
-32. Ariana Dumbledore
-- ariana, arianadumbledore
-
-33. Roger Davies
-- roger, davies
-
-34. Mr. Tonks
-- mr., tonks, mr.tonks
-
-35. Ernie
-- ernie, erniemacmillan
-
-36. Ronnie
-- ronnie
-
-37. Al
-- al
-
-38. Melinda Bobbin
-- melinda, bobbin
-
-39. Death Eater
-- deatheater, death, eater, deatheaters
-
-40. Connolly
-- connolly, moranandconnolly
-
-41. Stan Shunpike
-- stan, shunpike, stanleyshunpike
-
-42. Lestranges
-- lestranges, lestrange, bellatrix, bellatrixlestrange
-
-43. The Bloody Baron
-- thebloody, baron, bloodybaron
-
-44. Mademoiselle Delacour
-- mademoiselle, delacour, fleur, fleurdelacour, missdelacour, madamedelacour
-
-45. Remus John Lupin
-- remus, john, lupin, remuslupin
-
-46. Tom
-- tom, tomriddle, tomriddlesenior, to_mriddle, _tom, tomtheinnkeeper
-
-47. Demelza Robins
-- demelza, robins
-
-48. To Mackenzie
-- to, mackenzie
-
-49. Madam Bones
-- madambones, amelia, ameliabones, bones, susanbones
-
-50. Nymphadora Tonks
-- nymphadora, tonks, nymphadoratonks
-
-51. Dennis Creevey
-- denniscreevey, dennis, creevey, colin, colincreevey
-
-52. Celestina Warbeck
-- celestina, warbeck, celestinawarbeck
-
-53. Algie
-- algie, greatunclealgie
-
-54. Albert Gryffindor
-- albert, gryffindor
-
-55. Fourth Year
-- fourth, year, fourthyear
-
-56. Griselda Marchbanks
-- griselda, marchbanks
-
-57. First-year Students
-- first-year, students
-
-58. Eldred Worple
-- eldred, worple
-
-59. Dean
-- dean, deanthomas
-
-60. Horace Slughorn
-- horace, slughorn, horaceslughorn, professorh.e.f.slughorn
-
-61. Bill and Fleur
-- bill, and, fleur, billweasley, fleurdelacour
-
-62. Snuffles
-- snuffles
-
-63. Ludo Bagman
-- ludo, bagman, ludobagman, mr.ludobagman
-
-64. Gaunt
-- gaunt, marvolo, marvologaunt, merope, meropegaunt, gaunts
-
-65. Fang
-- fang
-
-66. Albus Dumbledore
-- albus, dumbledore, albusdumbledore
-
-67. Mudblood
-- mudblood
-
-68. Mr. Slinkhard
-- mr., slinkhard, mrslinkhard
-
-69. Professor Lockhart
-- professor, lockhart, gilderoy, gilderoylockhart
-
-70. Nigellus
-- nigellus
-
-71. Mr. Angus Fleet
-- mr., angus, fleet
-
-72. Reg Cattermole
-- reg, cattermole, regcattermole, maryelizabethcattermole
-
-73. Ced
-- ced, cedric, cedricdiggory
-
-74. Blinky
-- blinky
-
-75. Seamus Finnigan
-- seamusfinnigan, seamus, finnigan, mrs.finnigan
-
-76. Crouch
-- crouch, bartycrouch, barty, bartemiuscrouch, mr.crouch, mr.bartemiuscrouch
-
-77. Mad-Eye Moody
-- mad-eyemoody, mad-eye, moody, alastor, alastormoody
-
-78. Squib
-- squib
-
-79. Madam Pince
-- madam, pince
-
-80. Fred
-- fred, fredweasley
-
-81. Mrs. Weasley
-- mrs.weasley, mrs., weasley, molly, mollyweasley, mr.andmrs.weasley
-
-82. Poppy
-- poppy, madampomfrey
-
-83. Colin and Dennis Creevey
-- colin, and, dennis, creevey
-
-84. Ludo
-- ludo, ludovic
-
-85. Ritchie Coote
-- ritchie, coote
-
-86. Rabastan
-- rabastan
-
-87. Mrs. Weasley
-- mrs., weasley, mrsweasley
-
-88. Professor Grubbly-Plank
-- professorgrubbly-plank, grubbly-plank
-
-89. Cornelius Fudge
-- cornelius, fudge, corneliusfudge, corneliusoswaldfudge
-
-90. Alfoy
-- alfoy
-
-91. Antioch
-- antioch
-
-92. Amelia Bones
-- amelia, bones, ameliabones
-
-93. Pritchard
-- pritchard
-
-94. Alastor
-- alastor, alastormoody
-
-95. Emeric the Evil
-- emeric, the, evil
-
-96. Arnold
-- arnold, arnoldpeasegood
-
-97. Mrs. Hetty Bayliss
-- mrs., hetty, bayliss
-
-98. Hokey
-- hokey
-
-99. Mrs. Finnigan
-- mrs., finnigan
-
-100. Fat Friar
-- fat, friar
-
-101. Bole
-- bole
-
-102. Katie Bell
-- katie, bell, katiebell
-
-103. Professor Nymphadora
-- professor, nymphadora
-
-104. Amelia Susan Bones
-- amelia, susanbones
-
-105. Viktor Millicent Bulstrode
-- viktor, millicentbulstrode, millicent, bulstrode
-
-106. Horace Slughorn
-- horaceslughorn
-
-107. Theodore Nott
-- theodore, nott
-
-108. Heir of Slytherin
-- heir, of, slytherin, heirofslytherin
-
-109. Sprout
-- sprout, professorsprout
-
-110. Sectumsempra
-- sectumsempra, sectum
-
-111. Dodgy Doge
-- dodgy, doge
-
-112. Dawlish
-- dawlish
-
-113. Patil
-- patil, parvatipatil, padmapatil
-
-114. Mr. Borgin
-- mr.borgin
-
-115. Bellatrix
-
+1. Marge
+2. Firenze
+3. McGonagall: Minerva McGonagall, Professor M. McGonagall, Professor McGonagall
+4. Harry Potter: Mr. Potter, Mr. H. Potter, Harry
+5. Nicolas Flamel: Mr. Nicolas Flamel, Flamel, Nicholas Flamel
+6. Percy Weasley: Percy, Percy the Prefect, Mr. Ronald Weasley
+7. Weasley: Ron Weasley, Ginny Weasley, George Weasley, Fred Weasley, Mrs. Weasley
+8. Circe
+9. Nott
+10. MacDougal
+11. Ginny: Ginny
+12. Mr. Dursley: Vernon, Uncle Vernon
+13. Bones
+14. Snape: Severus Snape, Professor Snape
+15. Neville Longbottom: Longbottom, Neville, Mr. Longbottom
+16. Dudley: Dudley Dursley
+17. Professor Dumbledore: Albus Dumbledore, Dumbledore, Albus Dumbled
+18. Finch-Fletchley
+19. Goyle
+20. Ronan
+21. African Prince
+22. Fat Friar
+23. Professor Sprout: Sprout
+24. Mom: Mother
+25. Fat Lady: The Fat Lady
+26. Madam Pomfrey: Pomfrey
+27. Mr. and Mrs. Dursley: Mrs. Dursley
+28. Bane
+29. Merlin
+30. Professor: Professor Binns, Professor Flitwick, Professor Quirrell, Professor Vindictus Viridian, Professor M. McGonagall
+31. Brown
+32. Quirrell
+33. Finnigan: Seamus Finnigan, Seamus
+34. Dean Thomas: Dean, Thomas
+35. Aunt Petunia
+36. Ron: Ron
+37. Morag
+38. Madam Malkin
+39. Lavender
+40. Griphook
+41. Keeper
+42. Dad
+43. Lisa
+44. Marcus Flint: Flint
+45. Their Mother
+46. Howard
+47. Malcolm
+48. You-Know-Who: Lord Voldemort, Voldemort
+49. Millicent: Bulstrode
+50. Bloody Baron
+51. Perks
+52. Argus Filch: Mr. Filch, Filch
+53. Madam Hooch
+54. Hedwig
+55. Parkinson: Pansy Parkinson
+56. Dedalus Diggle
+57. Mrs. Figg
+58. Sir Nicholas de Mimsy: Sir Nicholas de Mimsy-Porpington
+59. Patil: Parvati Patil
+60. Grindelwald
+61. Gran
+62. J.K. Rowling: J. K. Rowling, J.K. Rowling
+63. Lee Jordan: Lee
+64. Man
+65. Blaise: Zabini
+66. Miss Granger: Hermione Granger, Hermione, Granger
+67. Perenelle
+68. Abbott: Susan
+69. Alberic Grunnion
+70. Hengist of Woodcraft
+71. Angelina Johnson: Angelina
+72. Mandy
+73. The Boy: Potter
+74. Adrian Pucey
+75. Codswallop
+76. Mrs. Potter
+77. Draco: Draco Malfoy, Malfoy
+78. Doris Crockford
+79. Ptolemy
+80. Dennis
+81. Bill
+82. Rubeus Hagrid: Hagrid
+83. Oliver Wood: Wood
+84. Professor Vindictus Viridian
+85. Fang
+86. Terry
+87. Madam Pince
+88. Your Father
+89. Hannah
+90. Slytherin
+91. Seeker
+92. Alicia Spinnet: Spinnet
+93. Dursleys
+94. Bartender
+95. Morgana
+96. Newt Scamander
+97. Brocklehurst
+98. Guard
+99. Mr. Ollivander
+100. Paracelsus
+101. Piers: Piers Polkiss
+102. George
+103. The Giant
+104. Mrs. Norris
+105. Cliodna
+106. Turpin
+107. Norbert
+108. Peeves
+109. Moon
+110. Charlie
+111. Pale Boy
+112. Justin
+113. Great Uncle Algie
+114. Ted
+115. Flitwick
+116. Agrippa
+117. Cornelius Fudge
+118. Gryffindor
+119. Gordon
+120. Crabbe

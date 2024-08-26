@@ -1,0 +1,199 @@
+Personajes detectados de forma correcta:
+  Marge Dursley
+  Firenze
+  Professor McGonagall
+  Harry Potter
+  Nicolas Flamel
+  Percy Weasley
+  Ginny Weasley
+  Ginny Weasley
+  Vernon Dursley
+  Professor Snape
+  Neville Longbottom
+  Dudley Dursley
+  Professor Dumbledore
+  Professor Dumbledore
+  Nicolas Flamel
+  Ronan
+  Professor Sprout
+  Harry Potter
+  Lily Potter
+  Madam Pomfrey
+  Bane
+  Harry Potter
+  Professor Quirrell
+  Seamus Finnigan
+  Dean Thomas
+  Terence Higgs
+  Alicia Spinnet
+  Aunt Petunia
+  Ronald Weasley
+  Madam Malkin
+  Lavender Brown
+  Professor Binns
+  Griphook
+  Vernon Dursley
+  James Potter
+  Aunt Petunia
+  Marcus Flint
+  Molly Weasley
+  Lord Voldemort
+  Professor Snape
+  Mr. Filch
+  Madam Hooch
+  Hedwig
+  Pansy Parkinson
+  Dedalus Diggle
+  Ronald Weasley
+  Marcus Flint
+  Arabella Figg
+  Fred and George Weasley
+  The Fat Lady
+  Nearly Headless Nick
+  Parvati and Padma Patil
+  Gellert Grindelwald
+  Professor Flitwick
+  Percy Weasley
+  Lee Jordan
+  Hermione Granger
+  Draco Malfoy
+  Professor McGonagall
+  Doris Crockford
+  Professor Sprout
+  Dean Thomas
+  Rubeus Hagrid
+  Seamus Finnigan
+  Oliver Wood
+  Fang
+  Nicolas Flamel
+  Professor Quirrell
+  Madam Pince
+  James Potter
+  Neville Longbottom
+  Neville Longbottom
+  Alicia Spinnet
+  Aunt Petunia
+  Angelina Johnson
+  Newt Scamander
+  Rubeus Hagrid
+  Mr. Ollivander
+  Lord Voldemort
+  Harry Potter
+  Oliver Wood
+  Fred and George Weasley
+  Professor McGonagall
+  Neville Longbottom
+  Lee Jordan
+  Mrs. Norris
+  Nearly Headless Nick
+  Norbert
+  Peeves
+  Parvati and Padma Patil
+  Pansy Parkinson
+  Hermione Granger
+  Seamus Finnigan
+  Piers Polkiss
+  Nicolas Flamel
+  Draco Malfoy
+  Professor Flitwick
+  Hermione Granger
+  Mr. Filch
+  Cornelius Fudge
+  Draco Malfoy
+Personajes no detectados de forma correcta:
+  The Boa Constrictor
+  Sorting Hat
+  Vincent Crabbe
+  Gregory Goyle
+  Charlie Weasley
+  The Bloody Baron
+  Fluffy
+  Katie Bell
+  Millicent Bulstrode
+  Bill Weasley
+  Augusta Longbottom
+  Trevor
+  Perenelle Flamel
+  The Fat Friar
+  The Grey Lady
+   Malcolm and Gordon Dennis
+   Mr Paws and Tufty  Snowy Tibbles
+  Susan Bones
+  Algie Longbottom
+  Justin Finch-Fletchley
+  Scabbers
+  Tom
+  Sirius Black
+  Quentin Trimble
+  Arsenius Jigger
+  Phyllida Spore
+  Miranda Goshawk
+  Bathilda Bagshot
+  Adalbert Waffling
+  Emeric Switch
+Alucionaciones:
+  Circe
+  Nott
+  MacDougal
+  Bones
+  Finch-Fletchley
+  Goyle
+  African Prince
+  Fat Friar
+  Fat Lady
+  Merlin
+  Professor
+  Brown
+  Morag
+  Keeper
+  Lisa
+  Howard
+  Malcolm
+  Dean
+  Millicent
+  Bloody Baron
+  Perks
+  Gran
+  Harry
+  J.K. Rowling: Rowling, J.K. Rowling
+  Man
+  Blaise
+  Perenelle
+  Fred Weasley: Fred
+  Abbott: Hannah Abbott, Abbott
+  Susan
+  Alberic Grunnion
+  Hengist of Woodcraft
+  Ptolemy
+  Dennis
+  Bill
+  Professor Vindictus Viridian: Professor Viridian, Vindictus Viridian
+  Bulstrode
+  Terry
+  Hannah
+  Slytherin
+  Seeker
+  Bartender
+  Morgana
+  Brocklehurst
+  Guard
+  Paracelsus
+  Piers
+  The Giant
+  Cliodna
+  Mrs. Weasley: Weasley, Mrs. Weasley
+  Turpin
+  Moon
+  Charlie
+  Pale Boy
+  Justin
+  Great Uncle Algie
+  Ted
+  Zabini
+  Agrippa
+  Gryffindor
+  Gordon
+  Crabbe
+Detectados correctamente: 101
+No Detectados correctamente: 30
+Alucinaciones: 62

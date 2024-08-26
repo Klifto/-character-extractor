@@ -20,11 +20,11 @@ from nltk.corpus import stopwords
 
 load_dotenv()
 
-model_name = "gpt4"
-version_api = "2024-05-01-preview"
+#model_name = "chatgpt16"
+#version_api = "2024-05-01-preview"
 
-#model_name = "gpt4o"
-#version_api = "2024-02-15-preview"
+model_name = "gpt4o"
+version_api = "2024-02-15-preview"
 
 def wrap_text_preserve_newlines(text, width=110):
     # Split the input text into lines based on newline characters
@@ -166,7 +166,7 @@ def generate_descriptions():
         max_retries=2,
         )
 
-    Embedding_store_path = f".//Embedding_store_harry"
+    Embedding_store_path = f".//Embedding_store_harry_first_book"
     try:
         #Intentamos cargar los embeddings en caso de tenerlos calculados de forma previa
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
@@ -180,7 +180,7 @@ def generate_descriptions():
                   path=Embedding_store_path)
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
     list_elements = elements.split("\n")
-    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 3}) #Definicion buscador
+    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 22}) #Definicion buscador
 
     #Cargamos un modelo jusnto con el retirever
     qa_chain_instrucEmbed = RetrievalQA.from_chain_type(llm=llm, 
@@ -188,14 +188,18 @@ def generate_descriptions():
                                   retriever=retriever, 
                                   return_source_documents=True)
     with open(f"./characters_list/{model_name}/characters_descriptions.txt", "w", encoding='utf-8') as f:
-        for i in list_elements: 
-            f.write(i + '\n')
-            query=character_description_prompt + f"{i}"
-            try:
-                llm_response = qa_chain_instrucEmbed(query)
-                f.write('\n' + process_llm_response(llm_response) + '\n')
-            except Exception as e:
-                print(f"Fail to generate respond reason: {e}")    
+        for i in list_elements:
+            if i in ('', ' ','\n','\t'):
+                pass
+            else: 
+                print(f"NOMBRE A BUSCAR: {'.'.join(i.split('.')[1:]).strip()}")
+                f.write(i + '\n')
+                query=character_description_prompt + f"{'.'.join(i.split('.')[1:]).strip()}"
+                try:
+                    llm_response = qa_chain_instrucEmbed(query)
+                    f.write(process_llm_response(llm_response) + '\n\n')
+                except Exception as e:
+                    print(f"Fail to generate respond reason: {e}")    
     return None
 
 from difflib import SequenceMatcher
@@ -206,7 +210,7 @@ def similar(a, b):
 def get_performance():
     with open(f"./characters_list/{model_name}/characters_descriptions.txt", "r", encoding='utf-8') as f:
         elements = f.read()
-    with open("./characters_list/wiki_harry_potter_list.txt", "r", encoding='utf-8') as f:
+    with open("./characters_list/first_book_characters.txt", "r", encoding='utf-8') as f:
         elements_true = f.read()
 
     elements_true = elements_true.split("\n")
@@ -225,6 +229,7 @@ def get_performance():
             element_name = i
             element_description = ''
         else:
+            i = i + ' '
             element_description += i
     
     llm = AzureChatOpenAI(
@@ -240,7 +245,8 @@ def get_performance():
     alucionaciones = []
     character_name_list = []
     for character_name, charater_description in descriptions.items():
-        character_name_list = [i.strip() for i in character_name.split(':')[1].split(',')]
+        if ':' in character_name:
+            character_name_list = [i.strip() for i in character_name.split(':')[1].split(',')]
         character_name_list.append('.'.join(character_name.split(':')[0].split('.')[1:]).strip()) #nombre principal
         similarity = {}
         for i in character_name_list:
@@ -288,7 +294,7 @@ def get_performance():
     return None
 
 if __name__=="__main__":
-    extract_characters()
-    process_characters()
+    #extract_characters()
+    #process_characters()
     generate_descriptions()
     get_performance()

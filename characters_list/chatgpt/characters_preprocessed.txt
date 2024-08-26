@@ -1,0 +1,164 @@
+1. Marge
+2. Firenze
+3. McGonagall: Professor McGonagall, Minerva McGonagall
+4. Harry Potter: Mr. Potter, Potter
+5. Nicolas Flamel: Mr. Flamel
+6. Percy Weasley: Mr. Weasley, Prefect Percy Weasley
+7. Weasley: Ron Weasley, Mr. Weasley, Ginny Weasley, Mrs. Weasley, George Weasley, their mother
+8. Circe
+9. Nott
+10. MacDougal
+11. Ginny Weasley: Ginny
+12. Mr. Dursley: Vernon Dursley, Uncle Vernon, Mr. and Mrs. Dursley
+13. Bones
+14. Snape: Professor Snape, Severus Snape, Professor Severus Snape
+15. Neville Longbottom: Neville
+16. Dudley: Dudley Dursley
+17. Professor Dumbledore: Albus Dumbledore, Professor Albus Dumbledore, Albus Dumbled
+18. Finch-Fletchley
+19. Albus Dumbledore: Professor Dumbledore, Dumbledore
+20. Goyle
+21. Flamel: Nicolas Flamel, Mr. Flamel
+22. Ronan
+23. African Prince
+24. Fat Friar
+25. Professor Sprout
+26. Mr. Potter: Harry Potter, Potter
+27. Mom: Lily Potter
+28. Fat Lady
+29. Madam Pomfrey: Pomfrey, Madam Pomfrey
+30. Bane
+31. Merlin
+32. Professor
+33. Brown
+34. Mr. H. Potter: Harry Potter
+35. Quirrell: Professor Quirrell
+36. Finnigan: Seamus Finnigan
+37. Dean Thomas: Thomas, Dean
+38. Terence Higgs: Higgs, Terence
+39. Spinnet: Alicia Spinnet
+40. Aunt Petunia: Petunia Dursley
+41. Ron Weasley: Ronald Weasley, Mr. Ronald Weasley
+42. Morag
+43. Madam Malkin
+44. Lavender: Lavender Brown
+45. Professor Binns
+46. Griphook
+47. Keeper
+48. Vernon: Uncle Vernon, Mr. Dursley, Vernon Dursley
+49. Dad: James Potter
+50. Lisa
+51. Mrs. Dursley: Petunia Dursley, Aunt Petunia
+52. Marcus Flint: Flint, Marcus
+53. Their mother: Mrs. Weasley
+54. Howard
+55. Malcolm
+56. Dean
+57. You-Know-Who: Voldemort, Lord Voldemort
+58. Millicent
+59. Severus Snape: Snape, Professor Snape, Professor Severus Snape
+60. Bloody Baron
+61. Perks
+62. Argus Filch: Filch, Mr. Filch
+63. Madam Hooch: Hooch, Madam Hooch
+64. Hedwig
+65. Parkinson: Pansy Parkinson
+66. Dedalus Diggle: Diggle, Dedalus Diggle
+67. Ronald Weasley: Ron Weasley, Mr. Ronald Weasley
+68. Flint: Marcus Flint
+69. Mrs. Figg: Mrs. Figg, Arabella Figg
+70. George Weasley: George
+71. The Fat Lady
+72. Sir Nicholas de Mimsy: Sir Nicholas de Mimsy-Porpington, Nearly Headless Nick
+73. Patil: Parvati Patil
+74. Grindelwald
+75. Professor Flitwick: Flitwick, Professor Flitwick
+76. Gran
+77. Harry
+78. Percy the Prefect: Percy Weasley, Prefect Percy Weasley
+79. J.K. Rowling: Rowling, J.K. Rowling
+80. Lee Jordan: Jordan, Lee
+81. Man
+82. Blaise
+83. Miss Granger: Hermione Granger
+84. Perenelle
+85. Fred Weasley: Fred
+86. Abbott: Hannah Abbott, Abbott
+87. Susan
+88. Alberic Grunnion
+89. Hengist of Woodcraft
+90. Draco: Draco Malfoy
+91. Professor McGonagall: McGonagall, Minerva McGonagall, Professor M. McGonagall
+92. Doris Crockford: Crockford, Doris Crockford
+93. Sprout: Professor Sprout
+94. Ptolemy
+95. Thomas: Dean Thomas
+96. Dennis
+97. Bill
+98. Rubeus Hagrid: Hagrid, Professor Hagrid
+99. Seamus Finnigan: Finnigan, Seamus
+100. Oliver Wood: Wood, Keeper Wood
+101. Professor Vindictus Viridian: Professor Viridian, Vindictus Viridian
+102. Bulstrode
+103. Fang
+104. Terry
+105. Mr. Nicolas Flamel: Nicolas Flamel, Flamel, Mr. Flamel
+106. Professor Quirrell: Quirrell, Professor Quirrell
+107. Madam Pince: Pince, Madam Pince
+108. Your father: James Potter
+109. Hannah
+110. Slytherin
+111. Longbottom: Neville Longbottom
+112. Seeker
+113. Neville: Neville Longbottom
+114. Alicia Spinnet: Spinnet, Alicia Spinnet
+115. Dursleys: Mr. and Mrs. Dursley, Dudley Dursley, Aunt Petunia, Uncle Vernon
+116. Angelina: Angelina Johnson
+117. Bartender
+118. Morgana
+119. Newt Scamander: Scamander, Newt Scamander
+120. Brocklehurst
+121. Guard
+122. Hagrid: Rubeus Hagrid, Professor Hagrid
+123. Mr. Ollivander: Ollivander, Mr. Ollivander
+124. Paracelsus
+125. Lord Voldemort: Voldemort, You-Know-Who
+126. Potter: Harry Potter, Mr. Potter
+127. Piers
+128. Wood: Oliver Wood, Keeper Wood
+129. George: George Weasley
+130. Minerva McGonagall: Professor McGonagall, McGonagall, Professor M. McGonagall
+131. The Giant
+132. Mr. Longbottom: Neville Longbottom, Longbottom
+133. Lee: Lee Jordan
+134. Mrs. Norris
+135. Sir Nicholas de Mimsy-Porpington: Sir Nicholas de Mimsy, Nearly Headless Nick
+136. Cliodna
+137. Mrs. Weasley: Weasley, Mrs. Weasley
+138. Turpin
+139. Norbert
+140. Peeves
+141. Moon
+142. Parvati Patil: Patil, Parvati Patil
+143. Charlie
+144. Pale Boy
+145. Pansy Parkinson: Parkinson, Pansy Parkinson
+146. Justin
+147. Hermione Granger: Granger, Miss Granger, Hermione
+148. Seamus: Seamus Finnigan
+149. Great Uncle Algie
+150. Piers Polkiss
+151. Nicholas Flamel: Flamel, Mr. Flamel, Nicolas Flamel
+152. Malfoy: Draco Malfoy, Mr. Malfoy
+153. Ted
+154. Flitwick: Professor Flitwick, Flitwick
+155. Zabini
+156. Hermione: Hermione Granger
+157. Agrippa
+158. Filch: Argus Filch, Mr. Filch
+159. Cornelius Fudge: Fudge, Cornelius Fudge
+160. Gryffindor
+161. Gordon
+162. Draco Malfoy: Malfoy, Draco Malfoy
+163. Crabbe
+164. Mother: Lily Potter
