@@ -192,7 +192,6 @@ def generate_descriptions():
             if i in ('', ' ','\n','\t'):
                 pass
             else: 
-                print(f"NOMBRE A BUSCAR: {'.'.join(i.split('.')[1:]).strip()}")
                 f.write(i + '\n')
                 query=character_description_prompt + f"{'.'.join(i.split('.')[1:]).strip()}"
                 try:
@@ -294,7 +293,7 @@ def get_performance():
     return None
 
 if __name__=="__main__":
-    #extract_characters()
-    #process_characters()
+    extract_characters()
+    process_characters()
     generate_descriptions()
     get_performance()
