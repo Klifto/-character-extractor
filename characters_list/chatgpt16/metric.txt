@@ -1,0 +1,216 @@
+Personajes detectados de forma correcta:
+  Marge Dursley
+  Firenze
+  Professor McGonagall
+  Harry Potter
+  Nicolas Flamel
+  Percy Weasley
+  Ginny Weasley
+  Vernon Dursley
+  Susan Bones
+  Professor Snape
+  Neville Longbottom
+  Dudley Dursley
+  Professor Dumbledore
+  Justin Finch-Fletchley
+  Professor Dumbledore
+  Gregory Goyle
+  Ronan
+  Professor Sprout
+  Harry Potter
+  The Fat Lady
+  Madam Pomfrey
+  Vernon Dursley
+  Bane
+  Professor Snape
+  Harry Potter
+  Professor Quirrell
+  Seamus Finnigan
+  Dean Thomas
+  Vernon Dursley
+  Ronald Weasley
+  Ginny Weasley
+  Terence Higgs
+  Alicia Spinnet
+  Aunt Petunia
+  Ronald Weasley
+  Madam Malkin
+  Lavender Brown
+  Professor Binns
+  Griphook
+  Vernon Dursley
+  James Potter
+  Marcus Flint
+  Percy Weasley
+  Molly Weasley
+  Dean Thomas
+  Lord Voldemort
+  Millicent Bulstrode
+  Professor Snape
+  Dudley Dursley
+  The Bloody Baron
+  Professor Snape
+  Mr. Filch
+  Madam Hooch
+  Hedwig
+  Pansy Parkinson
+  Dedalus Diggle
+  Madam Pomfrey
+  Professor Dumbledore
+  Ronald Weasley
+  Marcus Flint
+  Fred and George Weasley
+  The Fat Lady
+  Nearly Headless Nick
+  Parvati and Padma Patil
+  Gellert Grindelwald
+  Ronald Weasley
+  Professor Flitwick
+  Harry Potter
+  Percy Weasley
+  Lee Jordan
+  Hermione Granger
+  Susan Bones
+  Mr. Filch
+  Angelina Johnson
+  Draco Malfoy
+  Professor McGonagall
+  Doris Crockford
+  Professor Sprout
+  Dean Thomas
+  Bill Weasley
+  Rubeus Hagrid
+  Seamus Finnigan
+  Oliver Wood
+  Millicent Bulstrode
+  Fang
+  Nicolas Flamel
+  Professor Quirrell
+  Madam Pince
+  James Potter
+  Neville Longbottom
+  Neville Longbottom
+  Alicia Spinnet
+  Vernon Dursley
+  Angelina Johnson
+  Rubeus Hagrid
+  Rubeus Hagrid
+  Mr. Ollivander
+  Lord Voldemort
+  Harry Potter
+  Piers Polkiss
+  Oliver Wood
+  Fred and George Weasley
+  Professor McGonagall
+  Neville Longbottom
+  Lee Jordan
+  Mrs. Norris
+  Nearly Headless Nick
+  Professor McGonagall
+  Molly Weasley
+  Norbert
+  Peeves
+  Parvati and Padma Patil
+  Charlie Weasley
+  Pansy Parkinson
+  Hermione Granger
+  Seamus Finnigan
+  Piers Polkiss
+  Nicolas Flamel
+  Draco Malfoy
+  Professor Flitwick
+  Hermione Granger
+  Hermione Granger
+  Mr. Filch
+  Cornelius Fudge
+  Draco Malfoy
+  Vincent Crabbe
+Personajes no detectados de forma correcta:
+  The Boa Constrictor
+  Lily Potter
+  Sorting Hat
+  Fluffy
+  Katie Bell
+  Arabella Figg
+  Augusta Longbottom
+  Trevor
+  Perenelle Flamel
+  The Fat Friar
+  The Grey Lady
+   Malcolm and Gordon Dennis
+   Mr Paws and Tufty  Snowy Tibbles
+  Algie Longbottom
+  Scabbers
+  Tom
+  Sirius Black
+  Quentin Trimble
+  Arsenius Jigger
+  Phyllida Spore
+  Newt Scamander
+  Miranda Goshawk
+  Bathilda Bagshot
+  Adalbert Waffling
+  Emeric Switch
+Alucionaciones:
+  7. Weasley: Weasley,Mr. Weasley
+  8. Circe: Circe
+  9. Nott: Nott
+  10. MacDougal: MacDougal
+  21. Flamel: Flamel, Mr. Flamel
+  23. African Prince: African Prince
+  24. Fat Friar: Fat Friar
+  27. Mom: Mom, Mrs. Potter, Mrs. H. Potter, Mrs. Harry Potter
+  32. Merlin: Merlin
+  34. Brown: Brown
+  46. Morag: Morag
+  51. Keeper: Keeper
+  54. Lisa: Lisa
+  55. Mrs. Dursley: Mrs. Dursley, Mrs. Vernon Dursley, Mrs. P. Dursley, Mrs. P., Petunia Dursley, Mrs. Petunia Dursley, Mrs. P. Dursley, Mrs. P.
+  59. Howard: Howard
+  60. Malcolm: Malcolm
+  68. Perks: Perks
+  78. Mrs. Figg: Mrs. Figg
+  86. Gran: Gran
+  89. J.K. Rowling: J.K. Rowling, Rowling, Miss Rowling, Miss J.K. Rowling
+  91. Man: Man
+  92. Blaise: Blaise
+  94. Perenelle: Perenelle
+  95. Fred Weasley: Fred Weasley, Mr. Fred Weasley, Weasley, Mr. Weasley
+  96. Abbott: Abbott, Hannah Abbott, Miss Abbott, Miss Hannah Abbott
+  99. Alberic Grunnion: Alberic Grunnion
+  100. Hengist of Woodcraft: Hengist of Woodcraft
+  101. Fred: Fred, Fred Weasley, Mr. Fred Weasley, Weasley, Mr. Weasley
+  102. J. K. Rowling: J. K. Rowling, Rowling, Miss Rowling, Miss J.K. Rowling
+  104. Mandy: Mandy
+  105. The Boy: The Boy
+  106. Adrian Pucey: Adrian Pucey, Mr. Pucey, Pucey, Mr. Adrian Pucey
+  107. Codswallop: Codswallop
+  108. Mrs. Potter: Mrs. Potter, Mrs. Harry Potter, Mrs. H. Potter, Mrs. P., Potter
+  113. Ptolemy: Ptolemy
+  115. Dennis: Dennis
+  120. Professor Vindictus Viridian: Professor Vindictus Viridian, Professor Viridian, Professor V. Viridian, Professor V., Viridian
+  123. Terry: Terry
+  128. Hannah: Hannah, Hannah Abbott, Miss Abbott, Miss Hannah Abbott
+  129. Slytherin: Slytherin
+  131. Seeker: Seeker
+  136. Bartender: Bartender
+  137. Morgana: Morgana
+  138. Newt Scamander: Newt Scamander, Mr. Scamander, Scamander, Mr. Newt Scamander
+  139. Brocklehurst: Brocklehurst
+  143. Paracelsus: Paracelsus
+  150. The Giant: The Giant
+  152. J.K. Rowling: J.K. Rowling, Rowling, Miss Rowling, Miss J.K. Rowling
+  156. Cliodna: Cliodna
+  159. Turpin: Turpin
+  162. Moon: Moon
+  165. Pale Boy: Pale Boy
+  167. Justin: Justin
+  170. Great Uncle Algie: Great Uncle Algie
+  174. Ted: Ted
+  176. Zabini: Zabini
+  178. Agrippa: Agrippa
+  182. Gryffindor: Gryffindor
+  183. Gordon: Gordon
+Detectados correctamente: 126
+No Detectados correctamente: 25
+Alucinaciones: 59

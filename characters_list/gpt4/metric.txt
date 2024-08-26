@@ -1,0 +1,167 @@
+Personajes detectados de forma correcta:
+  Marge Dursley
+  Firenze
+  Professor McGonagall
+  Harry Potter
+  Nicolas Flamel
+  Percy Weasley
+  Ginny Weasley
+  Ginny Weasley
+  Professor Snape
+  Neville Longbottom
+  Dudley Dursley
+  Professor Dumbledore
+  Ronan
+  Professor Sprout
+  The Fat Lady
+  Madam Pomfrey
+  Bane
+  Professor Quirrell
+  Professor Quirrell
+  Seamus Finnigan
+  Aunt Petunia
+  Madam Malkin
+  Griphook
+  Marcus Flint
+  Lord Voldemort
+  Millicent Bulstrode
+  The Bloody Baron
+  Mr. Filch
+  Madam Hooch
+  Hedwig
+  Pansy Parkinson
+  Dedalus Diggle
+  Gellert Grindelwald
+  Lee Jordan
+  Hermione Granger
+  Angelina Johnson
+  Lily Potter
+  Draco Malfoy
+  Doris Crockford
+  Rubeus Hagrid
+  Oliver Wood
+  Fang
+  Madam Pince
+  Alicia Spinnet
+  Mr. Ollivander
+  Piers Polkiss
+  Mrs. Norris
+  Norbert
+  Peeves
+  Cornelius Fudge
+Personajes no detectados de forma correcta:
+  Ronald Weasley
+  Vernon Dursley
+  The Boa Constrictor
+  James Potter
+  Fred and George Weasley
+  Molly Weasley
+  Sorting Hat
+  Vincent Crabbe
+  Gregory Goyle
+  Charlie Weasley
+  Nearly Headless Nick
+  Fluffy
+  Lavender Brown
+  Parvati and Padma Patil
+  Katie Bell
+  Terence Higgs
+  Arabella Figg
+  Professor Flitwick
+  Professor Binns
+  Bill Weasley
+  Augusta Longbottom
+  Trevor
+  Perenelle Flamel
+  The Fat Friar
+  The Grey Lady
+   Malcolm and Gordon Dennis
+   Mr Paws and Tufty  Snowy Tibbles
+  Susan Bones
+  Algie Longbottom
+  Dean Thomas
+  Justin Finch-Fletchley
+  Scabbers
+  Tom
+  Sirius Black
+  Quentin Trimble
+  Arsenius Jigger
+  Phyllida Spore
+  Newt Scamander
+  Miranda Goshawk
+  Bathilda Bagshot
+  Adalbert Waffling
+  Emeric Switch
+Alucionaciones:
+  Circe
+  Nott
+  MacDougal
+  Mr. Dursley: Vernon, Uncle Vernon
+  Bones
+  Finch-Fletchley
+  Goyle
+  African Prince
+  Fat Friar
+  Mom: Mother
+  Mr. and Mrs. Dursley: Mrs. Dursley
+  Merlin
+  Brown
+  Dean Thomas: Dean, Thomas
+  Ron: Ron
+  Morag
+  Lavender
+  Keeper
+  Dad
+  Lisa
+  Their Mother
+  Howard
+  Malcolm
+  Perks
+  Mrs. Figg
+  Sir Nicholas de Mimsy: Sir Nicholas de Mimsy-Porpington
+  Patil: Parvati Patil
+  Gran
+  J.K. Rowling: J. K. Rowling, J.K. Rowling
+  Man
+  Blaise: Zabini
+  Perenelle
+  Abbott: Susan
+  Alberic Grunnion
+  Hengist of Woodcraft
+  Mandy
+  The Boy: Potter
+  Adrian Pucey
+  Codswallop
+  Ptolemy
+  Dennis
+  Bill
+  Professor Vindictus Viridian
+  Terry
+  Your Father
+  Hannah
+  Slytherin
+  Seeker
+  Dursleys
+  Bartender
+  Morgana
+  Newt Scamander
+  Brocklehurst
+  Guard
+  Paracelsus
+  George
+  The Giant
+  Cliodna
+  Turpin
+  Moon
+  Charlie
+  Pale Boy
+  Justin
+  Great Uncle Algie
+  Ted
+  Flitwick
+  Agrippa
+  Gryffindor
+  Gordon
+Detectados correctamente: 50
+No Detectados correctamente: 42
+Alucinaciones: 69
