@@ -20,11 +20,8 @@ from nltk.corpus import stopwords
 
 load_dotenv()
 
-#model_name = "chatgpt16"
-#version_api = "2024-05-01-preview"
-
-model_name = "gpt4o"
-version_api = "2024-02-15-preview"
+model_name = Nombre_modelo
+version_api = Version_api
 
 def wrap_text_preserve_newlines(text, width=110):
     # Split the input text into lines based on newline characters
