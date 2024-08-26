@@ -1,230 +1,749 @@
 Personajes detectados de forma correcta:
-  Justin Finch-Fletchley
-  Bathilda Bagshot
-  Hannah Abbott
-  Blaise Zabini
-  Madam Malkin
-  Madam Rosmerta
-  Bane
-  Millicent Bulstrode
-  Albus Dumbledore
-  Bill Weasley
-  Ronan
-  Peter Pettigrew
-  Ginny Weasley
-  Regulus Black
-  Xenophilius Lovegood
-  Hermione Granger
-  Cho Chang
-  Fleur Delacour
+   Bill Weasley
+  Binns
+  Malkin
+   Vernon Dursley
+   Marcus Belby
   Scabior
-  Griselda Marchbanks
-  Septima Vector
-  Padma Patil
-  Harry Potter
-  Severus Snape
-  Seamus Finnigan
-  Augusta Longbottom
-  Rufus Scrimgeour
-  Neville Longbottom
-  Muggle Prime Minister
-  Cuthbert Binns
-  Antonin Dolohov
-  Lee Jordan
-  Gornuk
-  Barty Crouch Sr
-  Gellert Grindelwald (/ˈɡrɪndəlˌvɔːld, -ˌwɔːld/)
-  Dolores Umbridge
-  Amycus Carrow
-  Ludo Bagman
-  Minerva McGonagall
-  Armando Dippet
-  Stan Shunpike
-  Ernie Macmillan
+   Bathilda Bagshot
+   Albus Dumbledore
+   Severus Snape
+   Lee Jordan
+   Millicent Bulstrode
+  Karkus
+   Gelert Grindelwald
+   Rufus Scrimgeour
+   Abraxas Malfoy
+   Cho Chang
+   Harry James Potter
+   Madam Rosmerta
+   Neville Longbottom
+   Fleur Delacour
+   Justin Finch-Fletchley
+   Antonin Dolohov
+   Hestia Jones
+   Hermione Jean Granger
+  Ronan
+   Dolores Jane Umbridge
+  Ivanova
+   Padma Patil
+   Seamus Finnigan
+   Amycus Carrow
+   Peter Pettigrew
+   Lord Voldemort
+   Xenophilius Lovegood
+   Stan Shunpike
+   Ludo Bagman
+   Griselda Marchbanks
+   Minerva McGonagall
+   Regulus Black
+   Hannah Abbot
+   Kenneth Towler
+  Bane
+   Ernie Macmillan
+  Karkus
+   Gelert Grindelwald
+   Rufus Scrimgeour
+   Abraxas Malfoy
+   Cho Chang
+   Harry James Potter
+   Madam Rosmerta
+   Neville Longbottom
+   Fleur Delacour
+   Ginevra (Ginny) Weasley
+   Justin Finch-Fletchley
+   Antonin Dolohov
+   Hestia Jones
+   Hermione Jean Granger
+  Ronan
+   Dolores Jane Umbridge
+  Ivanova
+   Padma Patil
+   Seamus Finnigan
+   Amycus Carrow
+   Peter Pettigrew
+   Lord Voldemort
+   Benji Fenwick
+   Xenophilius Lovegood
+   Stan Shunpike
+   Jimmy Peakes
+   Ludo Bagman
+   Griselda Marchbanks
+   Minerva McGonagall
+   Regulus Black
+   Hannah Abbot
+  Bane
+   Ernie Macmillan
+  Karkus
+   Gelert Grindelwald
+   Rufus Scrimgeour
+   Abraxas Malfoy
+   Cho Chang
+   Harry James Potter
+   Madam Rosmerta
+   Neville Longbottom
+   Fleur Delacour
+   Ginevra (Ginny) Weasley
+   Justin Finch-Fletchley
 Personajes no detectados de forma correcta:
-  Katie Bell
-  Phineas Nigellus Black
-  Sirius Black
-  Amelia Bones
-  Susan Bones
-  Terry Boot
-  Lavender Brown
-  Charity Burbage
-  Frank Bryce
-  Alecto Carrow
-  Reginald Cattermole
-  Penelope Clearwater
-  Crabbe
-  Vincent Crabbe
-  Colin Creevey
-  Dennis Creevey
-  Dirk Cresswell
-  Barty Crouch Jr
-  John Dawlish
-  Gabrielle Delacour
-  Dedalus Diggle
-  Amos Diggory
-  Cedric Diggory
-  Elphias Doge
-  Aberforth Dumbledore
-  Ariana Dumbledore
-  Kendra Dumbledore
-  Percival Dumbledore
-  Dudley Dursley
-  Marge Dursley
-  Petunia Dursley
-  Vernon Dursley
-  Marietta Edgecombe
-  Arabella Figg
-  Argus Filch
-  Nicolas Flamel
-  Mundungus Fletcher
-  Filius Flitwick
-  Cornelius Fudge
-  Marvolo Gaunt
-  Merope Gaunt
-  Morfin Gaunt
-  Anthony Goldstein
-  Goyle
-  Gregory Goyle
-  Mr. and Mrs. Granger
-  Astoria Greengrass
-  Gregorovitch
-  Fenrir Greyback
-  Wilhelmina Grubbly-Plank
-  Godric Gryffindor
-  Rubeus Hagrid
-  Rolanda Hooch
-  Mafalda Hopkirk
-  Helga Hufflepuff
-  Angelina Johnson
-  Bertha Jorkins
-  Igor Karkaroff
-  Viktor Krum
-  Silvanus Kettleburn
-  Bellatrix Lestrange
-  Gilderoy Lockhart
-  Alice and Frank Longbottom
-  Luna Lovegood
-  Remus Lupin
-  Teddy Lupin
-  Walden Macnair
-  Draco Malfoy
-  Lucius Malfoy
-  Narcissa Malfoy
-  Scorpius Malfoy
-  Olympe Maxime
-  Eloise Midgen
-  Cormac McLaggen
-  Graham Montague
-  Alastor "Mad-Eye" Moody
-  Theodore Nott
-  Nott Sr
-  Bob Ogden
-  Garrick Ollivander
-  Pansy Parkinson
-  Parvati Patil
-  Antioch, Cadmus, and Ignotus Peverell
-  Irma Pince
-  Sturgis Podmore
-  Poppy Pomfrey
-  James Potter
-  Lily Potter
-  Albus Severus Potter
-  James Sirius Potter
-  Lily Luna Potter
-  Apollyon Pringle
-  Quirinus Quirrell
-  Helena Ravenclaw/The Grey Lady
-  Rowena Ravenclaw
-  Delphi Riddle
-  Mary Riddle
-  Thomas Riddle
-  Tom Riddle Sr.
-  Tom Marvolo Riddle
-  Demelza Robins
-  Augustus Rookwood
-  Thorfinn Rowle
-  Albert Runcorn
-  Newt Scamander
-  Kingsley Shacklebolt
-  Aurora Sinistra
-  Rita Skeeter
-  Horace Slughorn
-  Salazar Slytherin
-  Zacharias Smith
-  Alicia Spinnet
-  Pomona Sprout
-  Pius Thicknesse
-  Dean Thomas
-  Andromeda Tonks
-  Nymphadora Tonks
-  Ted Tonks
-  Sybill Trelawney
-  Wilkie Twycross
-  Emmeline Vance
-  Romilda Vane
-  Lord Voldemort (Tom Marvolo Riddle)
-  Myrtle Warren/Moaning Myrtle[29]
-  Arthur Weasley
-  Charlie Weasley
-  Fred Weasley
-  George Weasley
-  Hugo Granger-Weasley
-  Molly Weasley
-  Percy Weasley
-  Ron Weasley
-  Oliver Wood
-  Rose Granger-Weasley
-  Corban Yaxley
+   Euan Abercrombie
+   Steward Ackerley
+   Falcon Aesalon
+  Agnes
+   Cornelius Agrippa
+   Archibald Alderton
+  Alguf the Awful
+  Alphard
+  Archie
   Aragog
+  Arnold
+   Bertram Aubrey
+  Avery
+  Babayaga
+   Malcolm Baddock
+   Otto Bagman
+   (Ludo and Otto’s father) Bagman
+   Millicent Bagnold
+  Bandon Banshee
+   Heathcote Barbary
+  Barker
+   Musidora Barkwith
+  Barnabas the Barmy
+  Barny
+  Barrufio
+   Ali Bashir
+  Basil
+   Hetty Bayliss
+   Oswald Beamish
   Beedle the Bard
-  The Bloody Baron
-  Bogrod
+   Flavius Belby
+   Humphrey Belcher
+   Katie Bell
+   Amy Benson
+  Billy
+  Binky
+   Dennis Bishop
+  Andromeda
+  Araminta Meliflua
+  Bellatrix Lestrange
+  Aunt Elladora
+  Narcissa
+   Sirius Black
+  Uncle Alfred
+   Balfour Blane
+   Miles Bletchley
+  Bloody Barron
+  Blott
+   Beatrix Bloxam
+   Blodwyn Bludd
+   Stubby Boardman
+  Bob
+   Broderick Bode
+  Bole
+   Pierre Bonnacord
+   Amelia Bones
+   Edgar Bones
+  Bones
+   Susan Bones
+   Mungo Bonham
+   Terry Boot
+   Gladys Boothby
+   Libatius Borage
+  Borgin
+   Bertie Bott
+  Bozo
+  Bradley
+   Barberus Bragge
+   Rudolph Brand
+   Maximus Brankovitch III
+   Eleanor Branstone
+   Kevin and Karl Broadmoor
+   Mandy Brocklehurst
+   Rupert “Axebanger” Brook Stanton
+   Lavender Brown
+   Frank Bryce
   Buckbeak
-  Sir Cadogan
+   K. Bunky
+   Rosalind Antigone Bungs
+   Professor Charity Burbage
+   Caractucus Burke
+   Sir Cadogan
+  Cadwallader
+   S. Capper
+   Eddie Carmichel
+   Alecto Carrow
+   Greta Catchlove
+   Owens Cauldwell
+  Chambers
+   Glenda Chittock
+   Agatha Chubb
+  Circe
+   Elfrinda Clagg
+   Penelope Clearwater
+  Cliodna
+   Edgar Clogg
+  Cole
+  Connolly
+   Ritchie Coote
+   Michael Corner
+  Crabbe
+   Vincent Crabbe
+   Elfrinda Cragg
+  Crapaud
+   Colin Creevy
+   Dennis Creevy
+   Dirk Cresswell
+  Croaker
+   Doris Crockford
+   Crispin Cronk
   Crookshanks
+   Barty Sr. Crouch
+   Barty Jr. Crouch
+  Crouch
+   Gideon Crumb
+   Barabas Cuffe
+   Gerta Curd
+  Damocles
+   Roger Davies
+   Tracy Davis
+  Dawlish
+   Caradoc Dearborn
+   Apolline Delacour
+   Gabrielle Delacour
+   Monsieur Delacour
+  Delaney
+   Laverne Montmorency
+  Dennis
+  Derek
+  Derrick
+   Dilys Derwent
+   Philbert Deverill
+  Diddy
+   Dedalus Diggle
+   Amos Diggory
+   Cedric Diggory
+  Diggory
+  Dimitrox
+   Harold Dingle
+   Dinky Diddydums
+   Armando Dippet
+   Emma Dobbs
+   Daisy Dodderidge
   Dobby
+   Elphias Doge
+   Ragmar Dorkins
+   J. Dorny
+  Dudders
+   Kirley Duke
+   Alberforth Dumbeldore
+   Ariana Dumbledore
+   Kendra Dumbledore
+  Dumbledore Percival
+   B Dunstan
+   Dudley Dursley
+   Marjorie (Marge) Dursley
+   Petunia Dursley
+  Dzou Yen
+  Eargit the Awful
+   Marietta Edgecombe
+   Madam Edgecombe
+  Egbert the Egregious
+   Mordicus Egg
+  Elfric the Eager
+  Elladora
+  Ellerby
+   Wilfred Elphick
+  Emeric the Evil
+  Ethelred the Ever
   Errol
+   Lily Evans
+   Petunia Evans
+   Mark Evans
+  Everard
+   Perpetua Fancourt
   Fang
-  The Fat Friar
-  The Fat Lady
+  Fat Friar
+  Fat Lady
+  Fawcetts
+   S. Fawcett
   Fawkes
+  Fergus
+   Arabella Doreen Figg
+   Argus Filtch
+  Fingal the Fearless
+  Finnigan
   Firenze
+   Nicholas Flamel
+   Perenelle Flamel
+   Angus Fleet
+   Mudungus Fletcher
+   Marcus Flint
+   Filius Flitwick
+  Florence
+  Flourish
+  Flourish and Blotts (Manager)
   Fluffy
+   Ambrosius Flume
+  Flyte
+   Florean Fortescue
+  Fridwulfa
+   Vicky Frobisher
+   Colonel Fubster
+   Cornelius Fudge
+  Fulbert the Fearful
+   Dymphna Furmage
+   Marvolo Gaunt
+   Merope Gaunt
+   Morfin Gaunt
+  Tom Marvolo
+  Ghoul
+  Giant Squid (of Hogwarts)
+   Anthony Goldstein
+  Golgomath
+  Golpalott
+  Gordon
+   Miranda Goshawk
+  Goyle
+   Gregory Goyle
+   Mr and Mrs Granger
+   Merton Graves
   Grawp
+   Daphne Greengrass
+  Gregorovitch
+  Gregory the Smarmy
+  Grenouille
+  Grey Lady (Helena Ravenclaw)
+   Fenrir Greyback
+   Glynnis Griffiths
+   Elias Grimstone
+  Gringott
   Griphook
+   Professor Grubbly-Plank
+   Alberic Grunnion
+   Godric Gryffindor
+   Malodora Grymm
+   Platform Guard
+   Davey Gudgeon
+   Galvin Gudgeon
+   Gladys Gudgeon
+  Gunhilda of Gorsemoor
+  Gunhilda
+  Gwenog
+   Rubeus Hagrid
+  Hagrid
+   Ciceron Harkiss
+  Harper
+   Warty Harris
   Hedwig
+  Hedwig the owl
+  Hengist of Woodcroft
+  Hengist of Upper Barnton
+  Hermes
+  Hermy
+  Herpo the Foul
+   Bertie Higgs
+   Terrence Higgs
+   Glover Hipworth
   Hokey
+   Rolanda Hooch
+   Geoffrey Hooper
+   Malfalda Hopkirk
+  Hoppy
+   Olive Hornby
+  Hornby
+   Basil Horton
+   Old Mother Hubbard
+   Helga Hufflepuff
+  Humongous Bighead
+  Ickle Diddykins
+   Inigo Imago
+  Ingolfr the Iambic
+   Joey Jenkins
+   Leonard Jewkes
+   Arsenius Jigger
+   Angelina Johnson
+   Gwenog Jones
+   Bertha Jorkins
+  Jugson
+   Igor Karkaroff
+   Gertie Keddle
+   Roland Kegg
+   Randolph Keitch
+   Professor Kettleburn
+   Elladora Ketteridge
+  Kevin
+  Kevin’s mother
+   R.J.H. King
+   Andrew Kirke
+   Goodwin Kneen
+   Gunhilda Kneen
+   Montague Knightley
   Kreacher
+   Victor Krum
+  Lachlan the Lanky
+  Landlady of the Green Dragon
   Leanne
+   Morgan Fey
+   Amarillo Lestoat
+   Bellatrix Lestrange
+   Rabastan Lestrange
+   Rodolphus Lestrange
+  Levski
+   Su Li
+   Dai Llewellyn
+   Guthrie Lochrin
+   Gilderoy Lockhart
+   Algie Longbottom 
+   Alice Longbottom
+   Augusta Longbottom
+   Ernid Longbottom
+   Frank Longbottom
+  Lovegood
+   Luna Lovegood
+   Loopy Lupin Loony
+   Artemisia Lufkin
+   Nymphadora (Dora) Tonks Lupin
+   Remus J. Lupin
+   Ted “Teddy” Remus Lupid
+   Aidan Lynch
+   Magnus Macdonald
+   Morag MacDougal
+   Hamish MacFarlan
+  MacFusty
+   Walden Macnair
+   Alasdair Maddock
+   Laura Madley
+   Queen Maeve
   Magorian
-  Great Aunt Muriel
+  Malcolm
+   Draco Malfoy
+   Lucius Malfoy
+   Narcissa Malfoy
+   Scorpius Malfoy
+  Malecrit
+  Mangorian
+   Beaumont Marjoribanks
+  Marsh
+  Mason
+   Olympe Maxime
+  Mauler
+  McClivert
+   Dugald McClivert
+   Catriona McCormack
+   Kirley McCormack
+   Meghan McCormack
+   Natalie McDonald
+   M. G. McGonagall
+   Marlene McKinnon
+   Cormac McLaggen
+   Tibirius McLaggen
+   Dorcas Meadows
+   Araminta Meliflua
+  Merlin
+   Galatea Merrythought
+  Merwyn the Malicious
+   Eloise Midget
+  Milly
+   Sir Nicholas de Mimsy-Porpington
+   Cordelia Misericordia
+  Moaning Myrtle
+   Cuthbert Mockridge
+  Montague
+  Montgomery
+   Alastor Moody
+  Moon
+  Moony
+   Bodmin Moor
+  Mopsus
+  Moran
+   Gwendolyn Morgan
+  Morgana
+  Morholt
+  Mortlake
+  Mosag
+   Hassan Mostafa
+  Mr. Paws
+  Mulciber
+   Burdock Muldoon
+  Mullet
+   Zacharias Mumps
+   Eric Munch
+  Muriel (Aunt)
+  Murcus
+   Eunice Murray
+  Myrtle
   Nagini
   Nearly Headless Nick
+   Madam Z Nettles
+   Phineas Nigellus
   Norbert
+   Mrs. Norris
+  Nott
+   Theodore Nott
+   Honoria Nutcombe
+  Oblansk
+  Odo
+   Bob Ogden
+   Tiberius Ogden
+  Ogg
+   Dunbar Oglethorpe
+   Darren O’Hare
+  Olaf
+   Chauncey Oldridge
+   Gondoline Oliphant
+   Barnaby Ollerton
+   Bill Ollerton
+   Bob Ollerton
+   Gifford Ollerton
+  Ollivander
+  Oona
+  Padfoot
+  Paracelsus
+   Walter Parkin
+   Pansy Parkinson
+   Pavarti Patil
+   Mr. Paws
+  Payne
+   Glanmore Peakes
+   Abraham Peasegood
+   Arnold Peasegood
   Peeves
+  Penfriend
+   Daisy Pennifold
+  Pennyfeather
+   Octavius Pepper
+  Perkins
+   Sally-Ann Perks
+  Peverell
+   Cadmus and Ignotus  Antioch Peverell
+   Arkie Philpott
+  Pig
   Pigwidgeon
-  Scabbers
-  Hepzibah Smith
+   Justus Pilliwickle
+   Madam Irma Pince
+   Carlotta Pinkstone
+   Randolphus Pittiman
+   Yardley Platt
+   Roderick Plumpton
+   Mirabella Plunkett
+   Sir Patrick Delaney Podmore
+   Sturgis Podmore
+   Gulliver Pokeby
+  Poliakoff
+   Piers Polkiss
+   Poppy Pomfrey
+   Roddy Pontner
+   Sir Nicholas de Mimsey Porpington
+   Albus Severus Potter
+   James Sirius Potter
+   James Potter
+   Lily Potter
+   Nugent Potts
+   Ernie Prang
+   Fabian Prewett
+   Gideon Prewett
+   Molly Prewett
+   Eileen Prince
+   Apollyon Pringle
+   Graham Pritchard
+   D. J. Prod
+  Prongs
+  Proudfoot
+  Ptolemy
+   Adrian Pucey
+   Madam Puddifoot
+   Doris Purkiss
+   Augustus Pye
+  Quigley
+   Orla Quirke
+   Quirinus Quirell
+  Quong Po
+   Modesty Rabnott
+   Urquhart Rackharrow
+   Mnemone Radford
+  Radulf
+  Ragnok
+   Xavier Rastrick
+   Helena (The Grey Lady) Ravenclaw
+   Rowena Ravenclaw
+   Tom Marvolo Riddle
+   Tom Riddle
+  Riddle
+   Harvey Ridgebit
+   Gawain Robards
+  Roberts
+   Demelza Robins
+   Augustus Rookwood
+  Rosier
+   Druella Rosier
+   Evan Rosier
+   Barry Ryan
+  Sanguini
+   Carmilla Sanguina
+  Savage
+   Almerick Sawbridge
+   Newton (Newt) Artemis Fido Scamander
+   Porpentina Scamander
+   Rolf Scamander
+   Bruno Schmidt
+   Brutus Scrimgeour
+  Selwyn
+   Kingsley Shacklebolt
+   Derwent Shimpling
+   Gaspard Shingleton
+   Aurora Sinistra
+   Rita Skeeter
+   Harold Skively
+   Wilbert Slinkhard
+   Jack Slooper
+   Horace Slughorn
+   Salazar Slytherin
+   Veronica Smethley
+   Elliot Smethwyk
+   Hippocrates Smethwyk
+   Leopoldina Smethwyk
+   Hepzibah Smith
+   Zacharias Smith
+   Tobias Snape
+  Snowy
+  Snuffles
+   Alicia Spinett
+   Phyllida Spore
+   Pomona Sprout
+   Erica Stainwright
+   Blenheim Stalk
+   Hesper Starkey
+   Patricia Stimpson
+   Edgar Stroulger
+   Miriam Strout
+   Grogan Stump
+   Felix Summerbee
+  Summberby
+  Summers
+   Havelock Sweeting
+   Emeric Switch
+   Jocunda Sykes
+  Tatting
+  Tenebrus
+   Janus Thickey
+   Pius Thicknesse
+   Dean Thomas
+  Thomas
+   Orsino Thruston
+   Thaddeus Thurkell
+  Tibbles
+  Tiberius
+   Agatha Timms
+  Tofty
+   Tilly Toke
   Tom
+   Andromeda Tonks
+   Nymphadora Tonks
+   Ted Tonks
+   Alberta Toothill
+   Tilden Toots
   Travers
+   Cassandra Trelawney
+   Sibyll Trelawney
+   Donaghan Tremlett
   Trevor
+   Quentin Trimble
+  Troy
+  Tufty
+   Sacharissa Tugwood
+   Lisa Turpin
+   Mallory Twiddle
+  Twilfitt
+   Norvel Twonk
+   Wilkie Twycross
+  Ugga
+   Quintius Umfraville
+  Uric the Oddball
+  Urquhart
+   Cassandra Vablatsky
+  Vaisey
+   Emmeline Vance
+   Romilda Vane
+   Herbert Varney
+   Septima Vector
+  Verity
+  Violet
+   Vindictus Viridian
+  Volkov
+  Vulchanov
+   Joscelind Wadcock
+   Adalbert Waffling
+   “Honest Willy” Wagstaff
+   Myron Wagtail
+   Celestina Warbeck
+   C Warrington
+   Fabius Watkins
+   Arthur Weasley
+   Charlie Weasley
+   Fred and George Weasley
+   Molly Weasley
+   Percy Weasley
+   Ronald (Ron) Weasley
+   Bilius Weasley
+   Fleur (Delacour) Weasley
+   Grandfather Weasley
+   Hugo Weasley
+  Mafalda
+   Rose Weasley
+   Septimus Weasley
+   Victoire Weasley
+  Weatherby
+   Dorcas Wellbeloved
+  Wendelin the Weird
+   Bridget Wenlock
+   Gilbert Whimple
+   Kennilworthy Whisp
+   Kevin Whitby
+   Devlin Whitehorn
+   Samson Wiblin
+   Willy Widdershins
+   Dempster Wiggleswade
+   Wilhelm Wigworthy
+   Ignatia Wildsmith
+  Wilfred the Wistful
+  Wilkies
+  Will
+   Benjy Williams
+  Williamson
+   Heliotrope Willis
+   Gilbert Wimple
   Winky
+   Herman Wintringham
+   Lord Stoddard Withers
+   Oliver Wood
+   Augustus Worme
+  Wormtail
+   Eldred Worple
+   Bowman Wright
+   Josef Wronski
+  Yaxley
+   Lysandra Yaxley
+   Cyprian Youdle
+  Yvonne
+   Blaise Zabini
+  Zabini
+   Ladislaw Zamojski
+   Rose Zeller
+  Zograf
 Alucionaciones:
   2. The Gurg: the gurg, gurg
-  5. Mr. Dursley: mr.dursley, mr. dursley, mrs. dursley
   6. Malcolm Baddock: malcolm baddock, baddock
-  7. Marcus Belby: marcus belby, belby
   8. Professor Merrythought: professor merrythought, galatea merrythought
   9. Mary Elizabeth Cattermole: mary elizabeth cattermole, mrs. cattermole, mary cattermole
   10. Nott: nott, theodore nott
   11. Agnes: agnes
+  12. Zabini: zabini, blaise zabini, blaise
+  14. Professor Vector: professor vector, professorvector
   16. Poppy: poppy, madampomfrey, madam pomfrey
+  18. Mr. Crouch: mr. crouch, mr.crouch, bartemius crouch, barty crouch, mr. bartemiuscrouch
+  21. Professor Dippet: professordippet, professor dippet, dippet
   22. His Father: his father, your father
-  24. Karkus: karkus
   25. T. M. Riddle: t. m. riddle, tom riddle, tomriddle, tom riddle senior, tomriddle senior
-  28. Abraxas Malfoy: abraxas malfoy
   29. Bletchley: bletchley, miles bletchley
   33. Whitby: whitby
   34. Petrificus Totalus: petrificus totalus
@@ -235,28 +754,25 @@ Alucionaciones:
   43. Mandy: mandy
   44. Headmaster: headmaster, headmistress
   45. Felix: felix, felix felicis, felixfelicis
-  46. Hestia: hestia, hestia jones
   47. Ruddy: ruddy
   49. Augustus Pye: augustus pye
   50. Ron and Hermione: ron andhermione, ron and hermione
-  53. Ivanova: ivanova
   55. Mrs. Weasley: mrs. weasley, mrs.weasley, mr. and mrs. weasley, mr.and mrs. weasley
-  60. Voldemort: voldemort, lord voldemort, he-who-must-not-be-named, you-know-who, dark lord, darklord, oldemort, the dark lord
+  58. Mrs. Longbottom: mrs. longbottom, mrs.longbottom, gran
   61. Godelot: godelot
   62. Brocklehurst: brocklehurst
   63. Benjy Fenwick: benjyfenwick, benjy fenwick
+  65. Gornuk: gornuk
   67. Jimmy Peakes: jimmy peakes
   68. Witch or Wizard: witchor wizard, witch or wizard
   69. Anthony Goldstein: anthony goldstein
+  70. Minister: minister, minister of magic, prime minister, primeminister
   74. Olive Hornby: olive hornby
   76. J.K. Rowling: j.k. rowling
   77. Mrs. Hetty Bayliss: mrs. hetty bayliss
-  79. Kenneth Towler: kenneth towler
   81. The Second Brother: the second brother
   83. Bulstrode: bulstrode, millicent bulstrode, millicent
-  84. Karkus: karkus
   85. T. M. Riddle: t. m. riddle, tom riddle, tomriddle, tom riddle senior, tomriddle senior
-  88. Abraxas Malfoy: abraxas malfoy
   89. Bletchley: bletchley, miles bletchley
   93. Whitby: whitby
   94. Petrificus Totalus: petrificus totalus
@@ -268,29 +784,24 @@ Alucionaciones:
   105. Mandy: mandy
   106. Headmaster: headmaster, headmistress
   107. Felix: felix, felix felicis, felixfelicis
-  108. Hestia: hestia, hestia jones
   109. Ruddy: ruddy
   111. Augustus Pye: augustus pye
   112. Ron and Hermione: ron andhermione, ron and hermione
-  115. Ivanova: ivanova
   117. Mrs. Weasley: mrs. weasley, mrs.weasley, mr. and mrs. weasley, mr.and mrs. weasley
-  122. Voldemort: voldemort, lord voldemort, he-who-must-not-be-named, you-know-who, dark lord, darklord, oldemort, the dark lord
+  120. Mrs. Longbottom: mrs. longbottom, mrs.longbottom, gran
   123. Godelot: godelot
   124. Brocklehurst: brocklehurst
-  125. Benjy Fenwick: benjyfenwick, benjy fenwick
-  129. Jimmy Peakes: jimmy peakes
+  127. Gornuk: gornuk
   130. Witch or Wizard: witchor wizard, witch or wizard
   131. Anthony Goldstein: anthony goldstein
+  132. Minister: minister, minister of magic, prime minister, primeminister
   136. Olive Hornby: olive hornby
   138. J.K. Rowling: j.k. rowling
   139. Mrs. Hetty Bayliss: mrs. hetty bayliss
   141. Kenneth Towler: kenneth towler
   143. The Second Brother: the second brother
-  144. Ernie: ernie, ernie the hufflepuff, ernie macmillan, erniemacmillan, ernie prang
   145. Bulstrode: bulstrode, millicent bulstrode, millicent
-  146. Karkus: karkus
   147. T. M. Riddle: t. m. riddle, tom riddle, tomriddle, tom riddle senior, tomriddle senior
-  150. Abraxas Malfoy: abraxas malfoy
   151. Bletchley: bletchley, miles bletchley
   155. Whitby: whitby
   156. Petrificus Totalus: petrificus totalus
@@ -299,6 +810,6 @@ Alucionaciones:
   161. Arnold Peasegood: arnoldpeasegood
   162. Baddock: baddock, malcolm baddock
   165. Stebbins: stebbins
-Detectados correctamente: 42
-No Detectados correctamente: 169
-Alucinaciones: 87
+Detectados correctamente: 86
+No Detectados correctamente: 644
+Alucinaciones: 79

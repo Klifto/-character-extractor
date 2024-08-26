@@ -21,6 +21,11 @@ from nltk.corpus import stopwords
 load_dotenv()
 
 model_name = "gpt4"
+version_api = "2024-05-01-preview"
+
+#model_name = "gpt4o"
+#version_api = "2024-02-15-preview"
+
 def wrap_text_preserve_newlines(text, width=110):
     # Split the input text into lines based on newline characters
     lines = text.split('\n')
@@ -98,7 +103,7 @@ def extract_characters():
         print(f"Element {index} of {len(text)}.") 
         ner_results = model.predict_entities(chunck.page_content, labels)
         for ner_result in ner_results:
-            if ner_result["score"] > 0.8:
+            if ner_result["score"] > 0.7:
                 characters_set.add(ner_result["text"])
     
     print(characters_set)
@@ -112,7 +117,8 @@ def extract_characters():
             pass
         else:
             i = i.replace(' -\n', "")
-            i = i.replace("\n", "")
+            i = i.replace("\n", " ")
+            i = i.replace("\t", " ")
             i = i.replace("  ", " ")
             new_characters_set.add(i.lower())
     with open("./characters_list/characters.txt", "w", encoding='utf-8') as f:
@@ -123,9 +129,11 @@ def process_characters():
     with open("./characters_list/characters.txt", "r", encoding='utf-8') as f:
         elements = f.read()
     elements = elements.replace("\n", ", ")
+    elements = elements.replace("\r", ", ")
+    elements = elements.replace("\t", ", ")
     llm = AzureChatOpenAI(
         azure_deployment=model_name,
-        api_version="2024-05-01-preview",
+        api_version=version_api,
         temperature=0,
         max_tokens=None,
         timeout=None,
@@ -151,7 +159,7 @@ def generate_descriptions():
     
     llm = AzureChatOpenAI(
         azure_deployment=model_name,
-        api_version="2024-05-01-preview",
+        api_version=version_api,
         temperature=0,
         max_tokens=None,
         timeout=None,
@@ -172,7 +180,7 @@ def generate_descriptions():
                   path=Embedding_store_path)
         db_instructEmbedd = load_embeddings(store_name='instructEmbeddings', path=Embedding_store_path)
     list_elements = elements.split("\n")
-    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 22}) #Definicion buscador
+    retriever = db_instructEmbedd.as_retriever(search_kwargs={"k": 3}) #Definicion buscador
 
     #Cargamos un modelo jusnto con el retirever
     qa_chain_instrucEmbed = RetrievalQA.from_chain_type(llm=llm, 
@@ -204,7 +212,7 @@ def get_performance():
     elements_true = elements_true.split("\n")
     elements_true_dict = {}
     for i in elements_true:
-        elements_true_dict[i.split(" – ")[0]] = i.split(" – ")[1]
+        elements_true_dict[' '.join(i.split(" – ")[0].split(',')[::-1])] = i.split(" – ")[1]
     
     elements = elements.split("\n")
     elements = [i for i in elements if i != '']
@@ -280,7 +288,7 @@ def get_performance():
     return None
 
 if __name__=="__main__":
-    #extract_characters()
+    extract_characters()
     process_characters()
     generate_descriptions()
     get_performance()
